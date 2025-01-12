@@ -1,5 +1,5 @@
-heretic-influence-start = Draining influence...
-heretic-ritualrune-examine = Current selected ritual: [color=yellow]{ $rit }[/color]
-heretic-knowledge-gain = You've learned something
-heretic-knowledge-loss = You're forgotten something
-heretic-clothing-component-fail = Cannot wear this!
+heretic-influence-start = Тратиться влияние...
+heretic-ritualrune-examine = Выбранный ритуал: [color=yellow]{ $rit }[/color]
+heretic-knowledge-gain = Вы что-то изучили
+heretic-knowledge-loss = Вы что-то забыли
+heretic-clothing-component-fail = Нельзя надеть это!
