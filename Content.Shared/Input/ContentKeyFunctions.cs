@@ -61,6 +61,8 @@ namespace Content.Shared.Input
         public static readonly BoundKeyFunction ResetZoom = "ResetZoom";
         public static readonly BoundKeyFunction ToggleStanding = "ToggleStanding"; // WD EDIT
 
+        public static readonly BoundKeyFunction LookUp = "LookUp";
+
         // Shitmed Change Start
         public static readonly BoundKeyFunction TargetHead = "TargetHead";
         public static readonly BoundKeyFunction TargetTorso = "TargetTorso";

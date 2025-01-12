@@ -98,6 +98,12 @@ namespace Content.Client.Options.UI.Tabs
             _deferCommands.Add(_inputManager.SaveToUserData);
         }
 
+        private void HandleHoldLookUp(BaseButton.ButtonToggledEventArgs args)
+        {
+            _cfg.SetCVar(CCVars.HoldLookUp, args.Pressed);
+            _cfg.SaveToFile();
+        }
+
         private void HandleStaticStorageUI(BaseButton.ButtonToggledEventArgs args)
         {
             _cfg.SetCVar(CCVars.StaticStorageUI, args.Pressed);
@@ -193,6 +199,9 @@ namespace Content.Client.Options.UI.Tabs
             AddButton(ContentKeyFunctions.MoveStoredItem);
             AddButton(ContentKeyFunctions.RotateStoredItem);
             AddButton(ContentKeyFunctions.SaveItemLocation);
+
+            AddButton(ContentKeyFunctions.LookUp);
+            AddCheckBox("ui-options-function-hold-look-up", _cfg.GetCVar(CCVars.HoldLookUp), HandleHoldLookUp);
 
             AddHeader("ui-options-header-interaction-adv");
             AddButton(ContentKeyFunctions.SmartEquipBackpack);

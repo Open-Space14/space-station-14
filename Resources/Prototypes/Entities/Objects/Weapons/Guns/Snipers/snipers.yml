@@ -37,6 +37,8 @@
         ents: []
   - type: StaticPrice
     price: 500
+  - type: Telescope
+    divisor: 0.1
 
 - type: entity
   name: Kardashev-Mosin

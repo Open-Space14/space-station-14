@@ -627,3 +627,6 @@ binds:
   type: State
   key: MouseRight
   canFocus: true
+- function: LookUp
+  type: State
+  key: MouseRight
