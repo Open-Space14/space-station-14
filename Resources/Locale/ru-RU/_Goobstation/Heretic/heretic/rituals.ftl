@@ -1,53 +1,53 @@
-heretic-ritual-unknown = Unknown Ritual
-heretic-ritual-switch = Selected { $name }
-heretic-ritual-success = Ritual successful
-heretic-ritual-fail-items = Ritual failed. Required items: { $itemlist }
-heretic-ritual-norituals = You don't know any rituals!
-heretic-ritual-noritual = No ritual chosen!
-heretic-ritual-basic-sacrifice = Heartbeat of the Mansus
-heretic-ritual-basic-sacrifice-desc = Bring one of your targets in critical or worse condition to sacrifice them to the Mansus, gibbing them and granting you one knowledge point. Heads of staff give an additional bonus point.
-heretic-ritual-basic-focus = Amber Focus
-heretic-ritual-basic-focus-desc = Transmute a glass shard and a pair of eyes into Amber Focus. A small necklace that allows you to cast advanced spells without the need of holding the codex in your hand.
-heretic-ritual-basic-heart = Relentless Heartbeat
-heretic-ritual-basic-heart-desc = Bring one heart, a pen and a paper to reroll your targets. Be wary that you may roll the same targets as before. Use this only if absolutely necessary.
-heretic-ritual-basic-codex = Codex Cicatrix
-heretic-ritual-basic-codex-desc = Transmute a pair of eyes, a book and a pen into Codex Cicatrix. It allows you to cast advanced spells while held open and gain twice as many influences from reality rifts. You're holding one right now.
-heretic-ritual-fail-sacrifice = There is no corpse to sacrifice.
-heretic-ritual-fail-sacrifice-ineligible = The rune refuses to accept this sacrifice.
-heretic-ritual-fail-reagentpuddle = There is no { $reagentname } present.
-heretic-ritual-fail-temperature-hot = It is too hot here.
-heretic-ritual-fail-temperature-cold = It is not cold enough here.
-heretic-ritual-fail-sacrifice-ash = There's either not enough of them dead, or burning.
-heretic-ritual-fail-sacrifice-blade = Some of them are still having a head on their shoulders.
+heretic-ritual-unknown = Неизвестный Ритуал.
+heretic-ritual-switch = Выбрано { $name }
+heretic-ritual-success = Ритуал успешен.
+heretic-ritual-fail-items = Ритуал провален. Требуюются: { $itemlist }
+heretic-ritual-norituals = Вы не знаете никаких ритуалов!
+heretic-ritual-noritual = Не выбран ритуал!
+heretic-ritual-basic-sacrifice = Сердцебиение Мансуса
+heretic-ritual-basic-sacrifice-desc = Принесите одну из целей в критическом или худшем состоянии, чтобы принести ее в жертву Мансусу, при этом вы получите одно очко знаний. Главы или члены командования дают дополнительное бонусное очко.
+heretic-ritual-basic-focus = Янтарный фокус.
+heretic-ritual-basic-focus-desc = Преобразуйте осколок стекла и пару глаз в Янтарный фокус. Небольшое ожерелье, позволяющее произносить сложные заклинания без необходимости держать в руке кодекс.
+heretic-ritual-basic-heart = Беспокойное сердцебиение.
+heretic-ritual-basic-heart-desc = Принеси одно сердце, бумагу и ручку, чтобы заменить цели. Но цели могут повториться.
+heretic-ritual-basic-codex = Кодекс Цикатрикса.
+heretic-ritual-basic-codex-desc = Преобразуйте пару глаз, книгу и перо в Кодекс Цикатрикса. Он позволяет произносить продвинутые заклинания, пока вы держите его открытым, и получать в два раза больше влияния от разломов реальности. Вы держите один прямо сейчас.
+heretic-ritual-fail-sacrifice = Здесь нет трупа для захоронения..
+heretic-ritual-fail-sacrifice-ineligible = руна отрекается брать эту цель.
+heretic-ritual-fail-reagentpuddle = В нём нет { $reagentname } сейчас.
+heretic-ritual-fail-temperature-hot = Тут очень горячо.
+heretic-ritual-fail-temperature-cold = Тут не достаточно холодно.
+heretic-ritual-fail-sacrifice-ash = Он не мёртв, либо горит.
+heretic-ritual-fail-sacrifice-blade = Некоторые из них имеют головы на плечах.
 
 ## side quests
 
-heretic-ritual-side-knowledge = Ritual of Knowledge
-heretic-ritual-side-shark = Scorching Shark
-heretic-ritual-side-cloak = Void Cloak
-heretic-ritual-side-ghoul = Shattered Ritual
-heretic-ritual-side-armor = Armorer's Ritual
-heretic-ritual-side-water = Priest's Ritual
-heretic-ritual-side-knife = Carving Knife
-heretic-ritual-side-crucible = Mawed Crucible
-heretic-ritual-side-coin = Eldritch Coin
+heretic-ritual-side-knowledge = Ритуал знаний.
+heretic-ritual-side-shark = Палящая акула
+heretic-ritual-side-cloak = Плащ Пустоты
+heretic-ritual-side-ghoul = Расколотый ритуал
+heretic-ritual-side-armor = Ритуал Кузнеца
+heretic-ritual-side-water = Ритуал Священника
+heretic-ritual-side-knife = Кровавый Нож
+heretic-ritual-side-crucible = Размозженный Тигель
+heretic-ritual-side-coin = Эльдритская моента
 
 ## ash path
 
-heretic-ritual-ash-blade = Nightwatcher's Secret
-heretic-ritual-ash-grasp = Grasp of Ash
-heretic-ritual-ash-mask = Mask of Madness
-heretic-ritual-ash-ascend = Ashlord's Rite
+heretic-ritual-ash-blade = Секрет Ночного Дозорника
+heretic-ritual-ash-grasp = Горстка пепела
+heretic-ritual-ash-mask = Маска Безумия 
+heretic-ritual-ash-ascend = Писания Лорда Пепела
 
 ## flesh path
 
-heretic-ritual-flesh-blade = Principle of Hunger
-heretic-ritual-flesh-ghoul = Imperfect Ritual
-heretic-ritual-flesh-prophet = Raw Ritual
-heretic-ritual-flesh-stalker = Lonely Ritual
-heretic-ritual-flesh-ascend = Priest's Final Hymn
+heretic-ritual-flesh-blade = Принцип Голода
+heretic-ritual-flesh-ghoul = Неидеальный ритуал
+heretic-ritual-flesh-prophet = Сырой ритуал
+heretic-ritual-flesh-stalker = Одинокий ритуал
+heretic-ritual-flesh-ascend = Последний Гимн Священника
 
 ## void path
 
-heretic-ritual-void-blade = Glimmer of Winter
-heretic-ritual-void-ascend = Waltz at the End of Time
+heretic-ritual-void-blade = Сияние зимы
+heretic-ritual-void-ascend = Вальс конца времени.
