@@ -1,78 +1,78 @@
-knowledge-path-side-knowledge-name = Ritual of Knowledge
+knowledge-path-side-knowledge-name = Ритуал познания
 knowledge-path-side-knowledge-desc =
-    You learn a special ritual that requires 4 different items, from various organs to candles and stun batons.
-    Performing this ritual grants you 4 knowledge points and resets the items needed.
+    Вы изучаете особый ритуал, для которого требуется 4 различных предмета, от различных органов до свечей и электрошоковых дубинок.
+    Выполнение этого ритуала дает вам 4 очка знаний и сбрасывает необходимые предметы.
 
-## stage 3
-knowledge-path-side-s3-armor-name = Armorer’s Ritual
+## этап 3
+knowledge-path-side-s3-armor-name = Ритуал оружейника
 knowledge-path-side-s3-armor-desc =
-    The Rusted Hills welcomed the Blacksmith in their generosity. And the Blacksmith returned their generosity in kind.
+    Ржавые холмы приветствовали кузнеца в своей щедрости. И кузнец отплатил им добром за щедрость.
 
-    Allows you to transmute a table and a gas mask to create Eldritch Armor.
-    Eldritch Armor provides great protection while also acting as a focus when hooded.
+    Позволяет трансмутировать стол и противогаз, чтобы создать Эльдритовую броню.
+    Eldritch Armor обеспечивает отличную защиту, а также действует как фокус, когда на вас надет капюшон.
 
-knowledge-path-side-s3-flask-name = Priest's Ritual
+knowledge-path-side-s3-flask-name = Ритуал священника
 knowledge-path-side-s3-flask-desc =
-    This is an old recipe. The Owl whispered it to me. Created by the Priest - the Liquid that both was and is not.
+    Это старый рецепт. Сова нашептала его мне. Создан Жрецом - Жидкостью, которая и была, и нет.
 
-    Allows you to transmute a tank of water and a glass shard into a Flask of Eldritch Essence.
-    Eldritch water can be consumed for potent healing.
+    Позволяет трансмутировать емкость с водой и осколок стекла во флягу с элдрической эссенцией.
+    Эльдритскую воду можно употреблять для мощного исцеления.
 
-knowledge-path-side-s3-ashen-eyes-name = Ashen Eyes
+knowledge-path-side-s3-ashen-eyes-name = Пепельные глаза
 knowledge-path-side-s3-ashen-eyes-desc =
-    Piercing eyes guided them through the mundane. Neither darkness nor terror could stop them.
+    Пронзительные глаза вели их сквозь обыденность. Ни тьма, ни ужас не могли остановить их.
 
-    Allows you to transmute a pair of eyes, a flare, and a glass shard into an Eldritch Medallion.
-    The Eldritch Medallion grants you thermal vision while worn, and also functions as a focus.
+    Позволяет трансмутировать пару глаз, факел и осколок стекла в медальон Элдритча.
+    Медальон Элдрича дает тепловое зрение при ношении, а также выполняет функцию фокуса.
 
-## stage 7
-knowledge-path-side-s7-uncuff-name = Wave of Desperation
+## стадия 7
+knowledge-path-side-s7-uncuff-name = Волна отчаяния
 knowledge-path-side-s7-uncuff-desc =
-    My shackles undone in dark fury, their feeble bindings crumble before my power.
+    В темной ярости я разрываю оковы, и их слабые узы рушатся перед моей силой.
 
-    Grants you Wave Of Desperation, a spell which can only be cast while restrained.
-    It removes your restraints, repels and knocks down adjacent people, and applies the Mansus Grasp to everything nearby.
-    However, you will fall unconscious a short time after casting this spell.
+    Дарует вам Волну отчаяния - заклинание, которое можно произнести, только будучи сдержанным.
+    Оно снимает с вас ограничения, отталкивает и сбивает с ног находящихся рядом людей, а также накладывает «Хватку Мансуса» на все, что находится поблизости.
+    Однако через некоторое время после произнесения этого заклинания вы потеряете сознание.
 
-knowledge-path-side-s7-siphon-name = Blood Siphon
+knowledge-path-side-s7-siphon-name = Сифон крови
 knowledge-path-side-s7-siphon-desc =
-    No matter the man, we bleed all the same. That's what the Marshal told me.
+    Независимо от человека, кровь течет одинаково. Так сказал мне маршал.
 
-    Grants Blood Siphon, a ranged spell that steals a bit of life from your target, healing your bruises and restoring blood.
-    Additionally, you have a chance of transferring wounds you are experiencing to the target.
+    Дарует «Сифон крови» - заклинание дальнего боя, которое отнимает у цели немного жизни, заживляя синяки и восстанавливая кровь.
+    Кроме того, у вас есть шанс перенести полученные раны на цель.
 
-knowledge-path-side-s7-knife-name = Carving Knife
+knowledge-path-side-s7-knife-name = разделочный нож
 knowledge-path-side-s7-knife-desc =
-    Etched, carved... eternal. There is power hidden in everything. I can unveil it! I can carve the monolith to reveal the chains!
+    Выгравированный, вырезанный... вечный. Во всем скрыта сила. Я могу открыть ее! Я могу вырезать монолит, чтобы открыть цепи!
 
-    Transmute a knife, a glass shard and a piece of paper to create a Carving Knife.
-    The knife allows you to create up to 3 carvings on the floor that have various effects on nonbelievers who walk over them.
+    Трансмутируйте нож, осколок стекла и лист бумаги, чтобы создать Нож для резьбы.
+    Нож позволяет создать на полу до 3 рисунков, которые оказывают различные эффекты на неверующих, проходящих по ним.
 
 knowledge-path-side-s7-crucible-name = Mawed Crucible
 knowledge-path-side-s7-crucible-desc =
-    This is pure agony. I wasn't able to summon the figure of the Aristocrat,
-    but with the Priest's attention I stumbled upon a different recipe...
+    Это чистая агония. Я не смог призвать фигуру Аристократа,
+    но благодаря вниманию Жреца я наткнулся на другой рецепт...
 
-    Allows you to transmute a portable water tank and a table to create a Mawed Crucible.
-    The Mawed Crucible can brew powerful potions for combat and utility, but must be fed bodyparts and organs between uses.
+    Позволяет трансмутировать переносную емкость для воды и стол, чтобы создать Mawed Crucible.
+    В нем можно варить мощные боевые и полезные зелья, но между использованиями его нужно кормить частями тела и органами.
 
-## stage 9
-knowledge-path-side-s9-coin-name = Eldritch Coin
+## этап 9
+knowledge-path-side-s9-coin-name = Эльдритская монета
 knowledge-path-side-s9-coin-desc =
-    The Mansus is a place of all sorts of sins. But greed held a special role.
+    Мансус - место всевозможных грехов. Но жадности отводилась особая роль.
 
-    Transmute a sheet of plasma, a diamond and eyes into an Eldritch Coin.
-    The coin will open nearby airlocks if it lands on heads and bolt nearby airlocks if it lands on tails.
-    Using it on an airlock consumes the coin and permanently opens the airlock.
-    Attempting to flip or use the coin as a non-heretic will deal brute and/or burn damage, depending on the side it lands on.
+    Преобразуйте лист плазмы, алмаз и глаза в Эльдритскую монету.
+    Монета откроет близлежащие шлюзы, если приземлится на голову, и заблокирует близлежащие шлюзы, если на решку.
+    При использовании монеты на шлюзе она расходуется и навсегда открывает шлюз.
+    Попытка подбросить монету или использовать ее в качестве нееретика нанесет грубый урон и/или урон от ожогов, в зависимости от того, на какую сторону она упадет.
 
-knowledge-path-side-s9-ashman-name = Ashen Ritual
+knowledge-path-side-s9-ashman-name = Пепельный ритуал
 knowledge-path-side-s9-ashman-desc =
-    Transmute a pile of ash, a brain and a book to summon an Ashman.
-    Ashmen can jaunt, cause bleeding wounds, and can release large waves of fire.
+    Трансмутируйте кучу пепла, мозг и книгу, чтобы призвать пепельного человека.
+    Пепельные люди могут прыгать, наносить кровоточащие раны и выпускать большие волны огня.
 
-knowledge-path-side-s9-cleave-name = Blood Cleave
+knowledge-path-side-s9-cleave-name = Кровоспуск
 knowledge-path-side-s9-cleave-desc =
-    At first I didn't understand these instruments of war, but the Priest told me to use them regardless. Soon, he said, I would know them well.
+    Поначалу я не понимал этих орудий войны, но жрец велел мне использовать их, несмотря ни на что. Вскоре, сказал он, я буду хорошо их знать.
 
-    Grants you Cleave, an area-of-effect targeted spell that causes heavy bleeding and blood loss to anyone afflicted.
+    Дает вам "Кровоспуск", заклинание направленного действия, вызывающее сильное кровотечение и потерю крови у всех, кто пострадал.
