@@ -1,5 +1,5 @@
-objective-issuer-heretic = [color=#8e24aa]The Mansus[/color]
-objective-condition-knowledge-title = Research at least { $count } knowledge from the Mansus.
-objective-condition-sacrifice-title = Sacrifice at least { $count } crew members.
-objective-condition-sacrifice-head-title = Sacrifice at least { $count } head of staff.
-objective-condition-description-ascend = I must do this in order to ascend!
+objective-issuer-heretic = [color=#8e24aa]Мансус[/color]
+objective-condition-knowledge-title = Изучи минимум { $count } знаний от Мансуса.
+objective-condition-sacrifice-title = Пожертвуй { $count } членов(-а) экипажа.
+objective-condition-sacrifice-head-title = Пожертвуй хотя-бы { $count } Глав.
+objective-condition-description-ascend = Я должен сделать это для возвышения!

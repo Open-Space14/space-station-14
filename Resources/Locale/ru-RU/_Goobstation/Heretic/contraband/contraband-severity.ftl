@@ -1,1 +1,1 @@
-contraband-examine-text-magic = [color=purple]This item is highly illegal contraband with magical properties![/color]
+contraband-examine-text-magic = [color=purple]Этот предмет является контрабандой высокого уровня опасности с аномальными магическими способностями![/color]
