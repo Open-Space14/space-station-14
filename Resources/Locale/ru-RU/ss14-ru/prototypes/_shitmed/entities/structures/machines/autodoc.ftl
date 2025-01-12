@@ -1,5 +1,5 @@
-ent-Autodoc = Autodoc Mk.XIV
-    .desc = A programmable robotic surgeon capable of automatically operating on patients.
+ent-Autodoc = АвтоДок Mk.XIV
+    .desc = Программируемый робот-хирург, способный автоматически оперировать пациентов.
 ent-AutodocSyndie = { ent-Autodoc }
     .suffix = Syndie
     .desc = { ent-Autodoc.desc }

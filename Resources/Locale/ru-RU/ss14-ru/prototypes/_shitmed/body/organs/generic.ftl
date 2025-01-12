@@ -1,8 +1,8 @@
-ent-BioSynthHeart = bio-synthetic heart
-    .desc = This heart can be transplanted into any living organism and it will adapt to its recipient.
-ent-BioSynthLiver = bio-synthetic liver
-    .desc = This liver can be transplanted into any living organism and it will adapt to its recipient.
-ent-BioSynthLungs = bio-synthetic lungs
-    .desc = These lungs can be transplanted into any living organism and it will adapt to its recipient.
-ent-BioSynthEyes = bio-synthetic eyes
-    .desc = These eyes can be transplanted into any living organism and it will adapt to its recipient.
+ent-BioSynthHeart = биосинтетическое сердце
+    .desc = Это сердце можно пересадить в любой живой организм, и оно адаптируется к своему реципиенту.
+ent-BioSynthLiver = биосинтетическая печень
+    .desc = Эту печент можно пересадить в любой живой организм, и оно адаптируется к своему реципиенту.
+ent-BioSynthLungs = биосинтетические лёгкие
+    .desc = Эти лёгкие можно пересадить в любой живой организм, и оно адаптируется к своему реципиенту.
+ent-BioSynthEyes = биосинтетические глаза
+    .desc = Эти глаза можно пересадить в любой живой организм, и оно адаптируется к своему реципиенту.
