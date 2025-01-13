@@ -1,1 +1,1 @@
-job-supervisors-ntr-centcom = the Nanotrasen Representative and Central Command
+job-supervisors-ntr-centcom = Представители НаноТрейзен и Центральное Командование.

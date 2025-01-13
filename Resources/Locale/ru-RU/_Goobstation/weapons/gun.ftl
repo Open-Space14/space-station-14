@@ -1,9 +1,9 @@
 # EnergyGunComponent
-energygun-examine-fire-mode = Set to { $mode } bolt.
+energygun-examine-fire-mode = Установка в { $mode } режим.
 # Hardlight Bow
-ammo-selector-examine-mode = Current mode: { $mode }
-mode-select-verb-text = Select firing mode
-mode-selected = Selected { $mode }
+ammo-selector-examine-mode = Текущий режим стрельбы: { $mode }
+mode-select-verb-text = Выберите режим стрельбы
+mode-selected = Выбран { $mode }
 # RequiresDualWieldComponent
-dual-wield-component-requires = That doesn't feel cool enough, you need to dual wield.
-gun-requires-dual-wield-component-examine = This weapon needs to be dual wielded with another of its kind in order to be fired.
+dual-wield-component-requires = Ты не чувствуешь себя как Рэмбо, стреляя с одной руки, возьми в две!!
+gun-requires-dual-wield-component-examine = Это оружие и его "собратья" ТРЕБУЮТ нахождения в двух руках для НОРМАЛЬНОЙ стрельбы.

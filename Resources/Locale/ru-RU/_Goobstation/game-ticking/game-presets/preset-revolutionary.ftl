@@ -1,5 +1,3 @@
 rev-eotr-gain =
-    With the last head of department gone, you are now surrounded by followers of the new unstable regime.
-    
-    You are the Enemy of the Revolution!
-    Kill, exile, restrain or mindshield all revolutionaries to regain control over the station!
+ Со смертью всех глав, вы обречены находиться с революционерами. Но ваша преданность НаноТрейзен не сдаётся.
+Вы - ВРАГ Революции. Убейте, уничтожьте, или наделите имплантом "Щита Разума" ВСЕХ Глав Революционеров.

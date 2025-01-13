@@ -1,1 +1,1 @@
-fibers-modular = modular
+fibers-modular = модулярный

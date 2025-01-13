@@ -1,1 +1,1 @@
-species-name-bananamen = Bananamen
+species-name-bananamen = Человек-Банан
