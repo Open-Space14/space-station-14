@@ -1,1 +1,1 @@
-gingerbread-hurt-by-water-popup = The water melts some of you away!
+gingerbread-hurt-by-water-popup = Вода расплавляет часть вас!!

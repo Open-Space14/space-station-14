@@ -1,4 +1,4 @@
-gamemode-dynamic-title = Dynamic
-gamemode-dynamic-description = Gaming in 3024 modernized.
-gamemode-dynamic-u-title = Unforgiving Dynamic
-gamemode-dynamic-u-description = God save us all.
+gamemode-dynamic-title = Динамичный.
+gamemode-dynamic-description = Улучшенный гейминг в 3025.
+gamemode-dynamic-u-title = Незабываемо Динамично
+gamemode-dynamic-u-description = Бог нас всех спасёт....

@@ -1,1 +1,1 @@
-job-description-hecu = Fufill the orders of your supervisor, no matter the morales.
+job-description-hecu = Выполняй приказы своего начальника, чего бы этого не стоило, или кого?

@@ -1,8 +1,8 @@
-trait-scottish-name = Scottish accent
-trait-scottish-desc = Your scottish pride is as strong as your accent!
-trait-wheelchair-bound-name = Wheelchair Bound
-trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
-trait-bogan-name = Bogan accent
-trait-bogan-desc = You learned this from a mythical creature.
-trait-maoist-accent-name = Maoist accent
-trait-maoist-accent-desc = SShit$$eKKK mu$$t be de$$troyed. Death to KKKommand.
+trait-scottish-name = Шотландский акцент
+trait-scottish-desc = Ваши шотландские гены так и трезвонят ваши голосовые связки. (Работает только с Английским)
+trait-wheelchair-bound-name = Инвалидность.
+trait-wheelchair-bound-desc = Вы не можете двигаться без своей коляски.
+trait-bogan-name = Боганский Акцент.
+trait-bogan-desc = Вы выучили этот акцент у странного существа. (Работает только с Английским)
+trait-maoist-accent-name = Акцент Мазохиста.
+trait-maoist-accent-desc = Ну, эт пиздец, а не акцент. (Работает только с Английским)

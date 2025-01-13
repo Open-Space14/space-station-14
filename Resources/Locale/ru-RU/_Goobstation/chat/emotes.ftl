@@ -1,20 +1,20 @@
 # Names
-chat-emote-name-fart = Fart
-chat-emote-name-fart-inhale = Breathe in a fart
-chat-emote-name-fart-super = Super Fart
-chat-emote-name-flap = Flap
-# Message
-chat-emote-msg-fart = farts.
-chat-emote-msg-fart-inhale = breathes in a big fart.
-chat-emote-msg-fart-super = super farts.
-chat-emote-msg-flap = flaps { POSS-ADJ($entity) } wings.
+chat-emote-name-fart = пердёж
+chat-emote-name-fart-inhale = вдыхать пердёж
+chat-emote-name-fart-super = супер пердёж
+chat-emote-name-flap = Заслонка.
+# Сообщение
+chat-emote-msg-fart = пукает.
+chat-emote-msg-fart-inhale = вдыхает большой пук.
+chat-emote-msg-fart-super = делает супер-пук.
+chat-emote-msg-flap = расправляет { POSS-ADJ($entity) } крылья.
 # Misc
-emote-fart-not-loaded = You don't have a super fart loaded!
-emote-fart-already-loaded = You already have a fart loaded!
-emote-fart-ass-off = You don't have a butt to fart with!
-emote-fart-out-of-farts = You're all out of farts!
-emote-fart-super-fart = You (literally) fart your ass off!
-emote-fart-inhale-notice = You breathe in, arming a super fart.
-emote-fart-inhale-disarm-notice = You disarm your super fart.
-chat-emote-name-boop = Boop
-chat-emote-name-whirr = Whirr
+emote-fart-not-loaded = У вас не готов суперпук!
+emote-fart-already-loaded = У вас уже загружен пукан!
+emote-fart-ass-off = У вас нет задницы, чтобы пукнуть!
+emote-fart-out-of-farts = У вас закончился пук!
+emote-fart-super-fart = Вы (буквально) пердите во всю задницу!
+emote-fart-inhale-notice = Вы вдыхаете воздух, чтобы получить суперпук.
+emote-fart-inhale-disarm-notice = Вы обезвреживаете свой суперпук.
+chat-emote-name-boop = Буп
+chat-emote-name-whirr = Вирр...

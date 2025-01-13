@@ -1,4 +1,4 @@
-flavor-base-futuristic = futuristic
-flavor-base-offensive = offensive
-flavor-base-sigma = sigma
-flavor-complex-fentanyl = burning tar
+flavor-base-futuristic = Футуристичный.
+flavor-base-offensive = Защитный.
+flavor-base-sigma = Сигма # я хуею как смешно ой бля.
+flavor-complex-fentanyl = Горящая Тара.

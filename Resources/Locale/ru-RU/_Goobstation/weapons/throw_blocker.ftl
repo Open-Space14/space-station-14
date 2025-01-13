@@ -1,1 +1,1 @@
-throwable-blocker-blocked = blocked!
+throwable-blocker-blocked = Блокировано!
