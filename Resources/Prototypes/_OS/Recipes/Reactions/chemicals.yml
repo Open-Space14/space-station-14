@@ -1,0 +1,12 @@
+- type: reaction
+  id: Pumpup
+  impact: Medium
+  reactants:
+    Coffee:
+      amount: 2
+    Nicotine:
+      amount: 1
+    Epinephrine:
+      amount: 1
+  products:
+    Pumpup: 2
