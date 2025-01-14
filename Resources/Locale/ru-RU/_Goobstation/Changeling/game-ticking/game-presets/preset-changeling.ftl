@@ -1,13 +1,13 @@
-changeling-roundend-name = changeling
-objective-issuer-hivemind = [color=orange]The Hive[/color]
-roundend-prepend-changeling-absorbed-named = [color=white]{ $name }[/color] has absorbed a total of [color=red]{ $number }[/color] organics.
-roundend-prepend-changeling-stolen-named = [color=white]{ $name }[/color] has extracted a total of [color=orange]{ $number }[/color] DNA samples.
-roundend-prepend-changeling-absorbed = Someone has absorbed a total of [color=red]{ $number }[/color] organics.
-roundend-prepend-changeling-stolen = Someone had extracted a total of [color=orange]{ $number }[/color] DNA samples.
-changeling-gamemode-title = Changelings
-changeling-gamemode-description = The changeling hive has boarded the station, ready to take anything it desires - be it your equipment, your faces, or your lives!
+changeling-roundend-name = Генокрад
+objective-issuer-hivemind = [color=orange]Улей[/color]
+roundend-prepend-changeling-absorbed-named = [color=white]{ $name }[/color] поглотил в общей сложности [color=red]{ $number }[/color] организмов.
+roundend-prepend-changeling-stolen-named = [color=white]{ $name }[/color] извлек в общей сложности [color=orange]{ $number }[/color] образцов ДНК.
+roundend-prepend-changeling-absorbed = Кто-то поглотил в общей сложности [color=red]{ $number }[/color] организмов.
+roundend-prepend-changeling-stolen = Кто-то извлек в общей сложности [color=orange]{ $number }[/color] образцов ДНК.
+changeling-gamemode-title = Генокрад
+changeling-gamemode-description = Улей подменышей проник на станцию, готовый взять все, что пожелает - будь то ваше снаряжение, ваши лица или ваши жизни!
 changeling-role-greeting =
-    You are a changeling who has absorbed and taken the form of { $name }!
-    Your objectives are listed in the character menu.
-    Absorb, shapeshift and evolve to complete them!
-changeling-role-greeting-short = You are a changeling who has absorbed and taken the initial form of { $name }.
+    Вы подменыш, который поглотил и принял облик { $name }!
+    Ваши цели перечислены в меню персонажа.
+    Поглощайте, меняйте форму и эволюционируйте, чтобы выполнить их!
+changeling-role-greeting-short = Вы генокрад, который поглотил и принял первоначальный облик { $name }.
