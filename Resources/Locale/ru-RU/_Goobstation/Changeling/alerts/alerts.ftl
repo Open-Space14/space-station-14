@@ -1,4 +1,4 @@
-alerts-changeling-chemicals-name = Chemicals
-alerts-changeling-chemicals-desc = Spend chemicals to use your abilities. Slowly regenerates.
-alerts-changeling-biomass-name = Biomass
-alerts-changeling-biomass-desc = This is your health. If it reaches 0 - it's [color=red]game over[/color]. Absorb humanoids to recover some of it.
+alerts-changeling-chemicals-name = Химикаты.
+alerts-changeling-chemicals-desc = Тратье химикаты с пользой на ваши способности. Медленно, но регенерируются.
+alerts-changeling-biomass-name = Биомасса.
+alerts-changeling-biomass-desc = Это ваше здоровье. Если кол-во биомассы достигнет нуля. [color=red]для вас будет смерть, и она будет мучительной[/color]. Поглощение экипажа восполняет её.
