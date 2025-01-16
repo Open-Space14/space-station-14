@@ -29,6 +29,8 @@
   - type: Tag
     tags:
     - Trash
+  - type: Extractable
+    grindableSolutionName: smokable
   - type: SolutionContainerManager
     solutions:
       smokable:
