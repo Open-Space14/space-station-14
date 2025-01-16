@@ -133,7 +133,7 @@
         - SyndicateNamesElite
       - type: NpcFactionMember
         factions:
-        - Syndicate
+        - Syndicate 
       mindRoles:
       - MindRoleNukeopsMedic
     - prefRoles: [ Nukeops ]
@@ -177,17 +177,19 @@
   components:
   - type: GameRule
     minPlayers: 5
+    delay:
+      min: 0 
+      max: 60 
   - type: AntagSelection
-    selectionTime: BeforeJobs # Goobstation
+    selectionTime: BeforeJobs
     definitions:
     - prefRoles: [ Traitor ]
-      max: 8
-      playerRatio: 10
+      max: 9
+      playerRatio: 15
       blacklist:
         components:
         - AntagImmune
-        - Changeling # Goobstation
-      lateJoinAdditional: true
+      lateJoinAdditional: false
       mindRoles:
       - MindRoleTraitor
 
