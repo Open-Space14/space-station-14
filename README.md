@@ -1,5 +1,5 @@
 <div class="header" align="center">  
-<img alt="WELT" width="880" height="auto" src="ничего">
+<img alt="text-logo" width="880" height="auto" src="ничего">
 
 ![Discord](https://img.shields.io/discord/1243455873989349448?style=for-the-badge&logo=discord&logoColor=white)  ![GitHub Repo stars](https://img.shields.io/github/stars/Open-Space14/space-station-14?style=for-the-badge&logo=github&logoColor=white) 
 
