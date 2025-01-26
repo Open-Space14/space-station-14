@@ -1,10 +1,9 @@
 <Document>
-# Cargo Department SOP
-These are the list of SOPs that Cargo Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+  # Процедуры для отдела грузоперевозок
+  Это список стандартных операционных процедур (SOP), которых должны придерживаться сотрудники отдела грузоперевозок. Как уже упоминалось ранее, [bold]это не контрольные списки[/bold], и они должны восприниматься как ориентиры.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Quartermaster[/bold][/color] being the Head of Staff:
-- [textlink="Quartermaster" link="Quartermaster SOP"]
-- [textlink="Cargo Technician" link="CargoTech SOP"]
-- [textlink="Salvage Specialist" link="SalvageSpecialist SOP"]
-
+  Следующие должности входят в этот отдел, при этом [color=#1b67a5][bold]Квартальный[/bold][/color] является руководителем персонала:
+  - [textlink="Квартальный" link="Quartermaster SOP"]
+  - [textlink="Техник по грузоперевозкам" link="CargoTech SOP"]
+  - [textlink="Специалист по salvage" link="SalvageSpecialist SOP"]
 </Document>

@@ -1,24 +1,22 @@
 <Document>
-# Command Department SOP
-These are the list of SOPs that Command Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+  # Стандартные Рабочие Процедуры командного отдела (СРП)
 
-Below are the list of guidelines [bold]all of Command should follow[/bold]:
+  Это список операционных процедур, которым должны следовать сотрудники командного отдела. Как уже было сказано, [bold]это не контрольные списки[/bold] и следует рассматривать как рекомендации. Ниже представлен список рекомендаций, которые [bold]все сотрудники командного отдела должны соблюдать[/bold]:
 
-1. The Command Personnel, excluding Head of Security, should not act as Security. Their job is to maintain their own Departments and assist the station.
+  1. Сотрудники командного отдела, за исключением директора службы безопасности, не должны действовать как служба безопасности. Их задача - поддерживать свои собственные отделы и помогать станции.
+  2. Сотрудники командного отдела могут защищаться и производить аресты при необходимости в целях самозащиты, но не могут пытаться, устанавливать временные рамки или выполнять какие-либо другие действия службы безопасности, кроме как передача арестованных лиц службе безопасности.
+  3. Сотрудники командного отдела не имеют права, ни при каких обстоятельствах, продвигать сотрудников станции на должности VIP в Центральном командовании ([color=#1b67a5][bold]Представитель Nanotrasen[/bold][/color] и [color=#1b67a5][bold]Офицер Blueshield[/bold][/color]) без разрешения от Центрального командования.
 
-2. The Command Personnel may defend themselves and perform arrests as needed in self-defense, but may not try, place times, or perform any other Security activities except hand-off arrested personnel to Security.
+  В этом отделе есть следующие должности, связь по цепочке командования указана вверху, а VIP-позиции Центрального командования отделены по цепочке командования. Капитан находится на вершине цепочки командования, а все главы - на равных условиях:
 
-3. The Command Personnel may not, under any circumstances, promote station personnel to Central Command VIP Positions ([color=#1b67a5][bold]Nanotrasen Representative[/bold][/color] and [color=#1b67a5][bold]Blueshield Officer[/bold][/color]) without authorization from Central Command.
-
-The following jobs have entries in this Department, the Chain of Command being linked at the top, the Central Command VIP being separated in terms of Chain of Command, the Captain being the top of Chain of Command, and all Heads of Staff on equal footing:
-- [textlink="Chain of Command" link="Succession"]
-- [textlink="Nanotrasen Representative" link="NanotrasenRep SOP"]
-- [textlink="Blueshield Officer" link="BlueshieldOfficer SOP"]
-- [textlink="Head of Personnel" link="HeadOfPersonnel SOP"]
-- [textlink="Head of Security" link="HeadOfSecurity SOP"]
-- [textlink="Research Director" link="ResearchDirector SOP"]
-- [textlink="Chief Medical Officer" link="ChiefMedicalOfficer SOP"]
-- [textlink="Chief Engineer" link="ChiefEngineer SOP"]
-- [textlink="Quartermaster" link="Quartermaster SOP"]
+  - [textlink="Цепочка командования" link="Succession"]
+  - [textlink="Представитель Nanotrasen" link="NanotrasenRep СРП"]
+  - [textlink="Офицер Синий Щит" link="BlueshieldOfficer СРП"]
+  - [textlink="Глава персонала" link="HeadOfPersonnel СРП"]
+  - [textlink="Глава службы безопасности" link="HeadOfSecurity СРП"]
+  - [textlink="Научный Руководитель" link="ResearchDirector СРП"]
+  - [textlink="Главный врач" link="ChiefMedicalOfficer СРП"]
+  - [textlink="Главный инженер" link="ChiefEngineer СРП"]
+  - [textlink="Квартирмейстер" link="Quartermaster СРП"]
 
 </Document>

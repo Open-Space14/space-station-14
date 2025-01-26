@@ -2,68 +2,68 @@
 
   <GuideEntityEmbed Entity="Supermatter"/>
 
-  So, you've decided to take on the challenge and set up the Supermatter Engine? First, let's give you a short overview of the main Supermatter crystal beforehand.
+  Итак, ты решил взяться за задачу и настроить двигатель Суперматерии? Сначала давай дадим тебе краткий обзор основного кристалла Суперматерии.
 
-  Its primary feature is emitting radioactive background that is harnessed to power the station through radiation collectors.
+  Его основная особенность — это излучение радиации, которое используется для питания станции через радиационные коллекторы.
 
-  Side effects include lightning strikes, releasing hot oxygen and plasma, heating the air around, exploding, transforming into a black hole or an energy ball and eating the entire station if you screw up hard enough.
+  Побочные эффекты включают молнии, выделение горячего кислорода и плазмы, повышение температуры воздуха, взрывы, превращение в чёрную дыру или энергетический шар, а если ты сильно ошибёшься — поглощение всей станции.
 
-  It begins inert but being hit by an object or a projectile will activate it and it'll start exhibiting nearly all of the aforementioned properties.
+  Он начинается как инертный, но при попадании объекта или снаряда активируется и начнёт проявлять почти все перечисленные свойства.
 
-  ## Words of Warning
+  ## Предупреждения
 
-  1. The Supermatter crystal is [color=#ff0000]VERY DANGEROUS[/color]. Activating the crystal should be the last step in setting up any form of Supermatter based power!
+  1. Кристалл Суперматерии [color=#ff0000]ОЧЕНЬ ОПАСЕН[/color]. Активировать кристалл следует только на последнем этапе настройки любой системы, использующей Суперматерию!
 
-  2. [color=#ff0000]PUT YOUR GOD DAMN RADIATION SUIT ON[/color]!!
+  2. [color=#ff0000]НАДЕНЬ СВОЙ ЧЁРТОВ КОСТЮМ ДЛЯ ЗАЩИТЫ ОТ РАДИАЦИИ[/color]!!
 
-  3. Most of setting up the Supermatter involves a gas loop that is designed to cool down the Supermatter chamber. Please have at least some knowledge of gases and their atmospheric properties.
+  3. Большая часть настройки Суперматерии включает в себя газовый контур, предназначенный для охлаждения камеры Суперматерии. Пожалуйста, имей хотя бы общее представление о газах и их атмосферных свойствах.
 
-  4. Anything that bumps into the Supermatter is [color=#ff0000]fundamentally annihilated[/color]. [color=#ff0000]Do not touch it[/color]. This means weld and bolt the door to the chamber.
+  4. Всё, что соприкасается с Суперматерией, [color=#ff0000]ФУНДАМЕНТАЛЬНО УНИЧТОЖАЕТСЯ[/color]. [color=#ff0000]НЕ ТРОГАЙ ЕЁ[/color]. Это значит, что дверь камеры нужно приварить и закрепить болтами.
 
-  ## Gas Interactions
+  ## Взаимодействие с газами
 
-  Here's a list of all gases from least dangerous to most dangerous.
+  Вот список всех газов, от наименее опасных до самых опасных.
 
-  1. [color=#bffffe]Frezon[/color]. Aside from cooling down the Supermatter, it basically stops power and waste production, which may come handy if the Supermatter is close to delaminating and you need to shut it down fast.
+  1. [color=#bffffe]Фрезон[/color]. Помимо охлаждения Суперматерии, он в значительной мере останавливает производство энергии и отходов, что может быть полезно, если Суперматерия близка к деламинированию и нужно быстро её отключить.
 
-  2. [color=#c20000]Nitrogen[/color]. N2 is the basic gas most Supermatter setups will run exclusively, being bog simple to set up for. It dampens the power generation from heat, and reduces the amount of plasma the SM belches out, making it good for when you aren't trying to do something silly.
+  2. [color=#c20000]Азот[/color]. N2 — это основной газ, который используется во многих установках Суперматерии, так как его просто настроить. Он уменьшает выработку энергии от тепла и снижает количество плазмы, выбрасываемой из Суперматерии, что полезно, когда ты не пытаешься делать что-то безумное.
 
-  3. [color=#b16d6d]Nitrous oxide[/color]. Reinforces the heat resistance of the crystal, allowing for much hotter setups than usual. Hovewer, at high temperatures it will decompose into Nitrogen and Oxygen. While N2 is good, O2 certainly is not. This O2 will also react with the Plasma to create Tritium and then... a Tritium fire.
+  3. [color=#b16d6d]Оксид азота[/color]. Усиливает теплоустойчивость кристалла, позволяя создавать гораздо более горячие установки. Однако при высоких температурах он разлагается на Азот и Кислород. Пока N2 — это хорошо, то O2, безусловно, нет. Этот O2 также будет реагировать с Плазмой, создавая Тритий, а затем… пожар трития.
 
-  4. [color=#62d5ca]Oxygen[/color]. Provides a boost to power transmission without actively increasing the waste gas amount or temperature. Pretty risky to use, as any disruption of the cooling loop will soon cause a plasma fire in the crystal chamber. Even just a high concentration of O2 will activate and continuously power the crystal.
+  4. [color=#62d5ca]Кислород[/color]. Обеспечивает повышение передачи энергии, не увеличивая количество отходящих газов или температуры. Довольно рискованно использовать, так как любое нарушение в контуре охлаждения быстро приведёт к плазменному огню в камере кристалла. Даже просто высокая концентрация O2 активирует и будет постоянно питать кристалл.
 
-  5. [color=#19b348]Ammonia[/color]. Increases the power generation slightly at a minor cost to the heat penalty.
+  5. [color=#19b348]Аммиак[/color]. Немного увеличивает выработку энергии при небольшой потере теплоизоляции.
 
-  6. [color=#979797]Carbon Dioxide[/color]. In low concentrations, it will increase the crystal's power generation. In high concentrations it will raise the crystal's energy to extremely high levels. With poor management and insufficient or downright bad preparation, it will eventually exceed safe energy levels and begin a charge delamination, producing electric arcs and anomalies until it eventually explodes into a Tesla ball. Injecting Carbon Dioxide will also cause the Supermatter to produce Pluoxium.
+  6. [color=#979797]Диоксид углерода[/color]. В низких концентрациях увеличивает выработку энергии кристалла. В высоких концентрациях он приводит к крайне высоким уровням энергии, что может привести к зарядному деламинированию, вызывающему электрические дуги и аномалии, а затем — взрыву в виде Тесла-шара. Введение углекислого газа также заставит Суперматерию производить Плуоксий.
 
-  7. [color=#9370db]BZ[/color]. Increases the power generation slightly at a major cost to the heat penalty.
+  7. [color=#9370db]БЗ[/color]. Несколько увеличивает выработку энергии, но при этом значительно увеличивает тепловой штраф.
 
-  8. [color=#fa8072]Healium[/color]. Increases power production considerably but with a much higher heat penalty than most non-flammable gases.
+  8. [color=#fa8072]Хелиум[/color]. Существенно увеличивает выработку энергии, но с гораздо более высоким тепловым штрафом, чем большинство не воспламеняющихся газов.
 
-  9. [color=#7b68ee]Pluoxium[/color]. Dampens heat considerably and reduces the amount of plasma produced by the SM.
+  9. [color=#7b68ee]Плуоксий[/color]. Существенно снижает тепло и уменьшает количество плазмы, производимой Суперматерией.
 
-  [color=#ff0000]10[/color]. [color=#ff9d00]Plasma[/color]. Very similar to Oxygen but provides a higher power boost as well as a much higher waste and heat penalty. The extreme pressures and volumes of gas produced by this gas are very likely to clog pipes and overheat the chamber.
+  [color=#ff0000]10[/color]. [color=#ff9d00]Плазма[/color]. Очень похожа на Кислород, но даёт больший прирост энергии и значительно более высокий штраф за тепло и отходы. Экстремальные давления и объемы газа, произведенные этим газом, очень вероятно забьют трубы и перегреют камеру.
 
-  [color=#ff0000]11[/color]. [color=#08a800]Tritium[/color]. Increases the power production of the Supermatter by up to 3 times, there is one slight issue with it. It is dangerous. It is very dangerous. Tritium is a horrifyingly irritable and jumpy gas. While it isn't as harmful to the heat level as Plasma is (just barely), it also has the second worst heat capacity of all gasses while Plasma has the second highest. This means that Plasma can be kept happy with enough cooling, whereas Tritium eagerly goes from a safe space loop into a burning hellfire. Add to this the byproduct of large amounts of Oxygen production (not exclusive to Tritium. An issue in a Plasma engine too), and you have a tritium fire and a very hot crystal. Do not use this gas unless you have a very strong understanding of atmospherics and the Supermatter, and are willing to get creative.
+  [color=#ff0000]11[/color]. [color=#08a800]Тритий[/color]. Увеличивает выработку энергии Суперматерии до 3 раз, но есть одна небольшая проблема. Это опасно. Очень опасно. Тритий — это ужасно раздражительный и нервный газ. Хотя он не так сильно влияет на температуру, как Плазма (почти), он также имеет второй худший тепловой коэффициент среди всех газов, в то время как Плазма — второй лучший. Это означает, что Плазму можно держать в «порядке» с достаточным охлаждением, в то время как Тритий с удовольствием превращает систему в огненный ад. Добавь сюда побочный продукт в виде большого количества производства кислорода (не только у Трития, но и у Плазменного двигателя), и у тебя будет пожар трития и очень горячий кристалл. Не используй этот газ, если у тебя нет очень сильного понимания атмосферы и Суперматерии, и если ты не готов быть креативным.
 
-  ## Practical guide to the Supermatter
+  ## Практическое руководство по Суперматерии
 
-  Now, forget about everything you've just read and get to setting up the most basic loop there is: the Nitrogen loop.
+  Теперь забудь обо всём, что ты только что прочитал, и приступай к настройке самой базовой системы: системы с азотом.
 
-  The atmospheric setup in it's most basic form should look like this:
+  Атмосферная настройка в её базовой форме должна выглядеть так:
 
-  (We did not have enough budget for images, here is a text representation)
+  (У нас не было бюджета на изображения, вот текстовое представление)
 
-  1. Nitrogen gets pumped into the chamber by passive vents from one side
+  1. Азот закачивается в камеру через пассивные вентиляционные системы с одной стороны.
 
-  2. Every gas gets pumped out of the chamber by using scrubbers set on Siphon on the other side.
+  2. Все газы откачиваются из камеры с помощью очистителей, установленных на «Откачку» с другой стороны.
 
-  3. The output gets cooled down, filtered and excess nitrogen gets either outted into space or rerouted into the input.
+  3. Выходной газ охлаждается, фильтруется, а избыточный азот либо выбрасывается в космос, либо перенаправляется в подачу.
 
-  That's basically it. I hope you understand at least something in this example. Now get to it!
+  Это, в принципе, всё. Надеюсь, ты хоть что-то понял из этого примера. Теперь приступай к делу!
 
-  ## Experiment
+  ## Эксперимент
 
-  You're not a real engineer if you haven't figured out the most efficient way to produce electricity using the Supermatter crystal, are you?
+  Ты не настоящий инженер, если не придумал самый эффективный способ производства энергии с использованием кристалла Суперматерии, не так ли?
 
 </Document>

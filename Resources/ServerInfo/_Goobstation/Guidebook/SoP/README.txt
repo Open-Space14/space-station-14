@@ -1,16 +1,19 @@
-All of the resources in this directory and subdirectories under this are created/modified from existing (open-source) material by the following authors:
+Все ресурсы в этом каталоге и подкаталогах в нем созданы/изменены из существующих (открытых) материалов следующими авторами:
 - Rouge2t7
 - Tikibomb
 - CerberusWolfie
 
-with suggestions from other Staff Members of Goobstation.
+с предложениями от других сотрудников Goobstation.
 
-The alert levels (all except Epsilon) are created by Funky Station (a downstream from Goobstation at this time).
+Уровни оповещения (все, кроме Epsilon) созданы Funky Station (в настоящее время нижестоящей от Goobstation).
 
-Epsilon was created and modified from one of the others.
+Epsilon был создан и изменен из одного из других.
 
-Why does this exist?
-Primarily to make it easier to explain the formatting of this entire directory (and subdirectories).
+Зачем это существует?
+В первую очередь, чтобы было легче объяснить форматирование всего этого каталога (и подкаталогов).
 
-Each subdirectory has the .xml file for that "folder" as it appears in the guidebook. The subdirectories and contents, including the main file in this directory,
-are organized with the same formatting as appears in the guidebook in-game.
+Каждый подкаталог имеет файл .xml для этой «папки», как он отображается в руководстве. Подкаталоги и содержимое, включая основной файл в этом каталоге,
+организованы с тем же форматированием, что и в руководстве в игре.
+
+Над переводом на русский язык работали:
+- AL-S

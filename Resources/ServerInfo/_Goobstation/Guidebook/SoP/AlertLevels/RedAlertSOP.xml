@@ -1,38 +1,37 @@
 ﻿<Document>
-  # Station Alert - Red
+  # Код станции - Красный
 
   <Box>
-    [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+    [italic]Задано: Любым лицом с доступом командного уровня на рабочем коммуникационном консоли.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Условия:[/bold]
 
-  There is a confirmed, hostile threat on-board the station or nearby in space. This threat should pose recognizable danger to the station and/or crew at large.
+  Подтверждена враждебная угроза на станции или поблизости в космосе. Эта угроза должна представлять явную опасность для станции и/или экипажа в целом.
 
-  [bold]Security:[/bold]
+  [bold]Безопасность:[/bold]
 
-  Security personnel should read Security SOP for armament, armory and safety procedures;
+  Персонал безопасности должен ознакомиться с процедурными документами по вооружению, арсеналу и мерам безопасности;
 
-  Random searches are fully permitted and recommended. Security personnel may detain any personnel refusing a random search in order to conduct said search;
+  Случайные обыски полностью разрешены и рекомендованы. Персонал безопасности может задержать любого сотрудника, отказывающегося от случайного обыска, для его проведения;
 
-  Security personnel are to cooperate fully with any Central Command Staff (such as Emergency Response Teams) in order to eliminate the threat to the station.
+  Персонал безопасности должен полностью сотрудничать с любым персоналом Центрального командования (например, с командами экстренного реагирования), чтобы устранить угрозу для станции.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Закрытые зоны:[/bold]
 
-  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, anywhere else requiring command level access that does not get regularly used.
+  EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, любые другие зоны с доступом командного уровня, которые не используются регулярно.
 
-  There are no restrictions on bolting Secure Areas. Secure Areas may be left bolted or unbolted at the discretion of Command personnel;
+  Нет ограничений на закрепление закрытых зон. Зоны могут быть оставлены как закрепленными, так и незакрепленными на усмотрение командного состава;
 
-  [bold]General Crew:[/bold]
+  [bold]Общий экипаж:[/bold]
 
-  All personnel are required to maximize their Suit Sensors;
+  Все сотрудники обязаны максимально использовать датчики скафандра;
 
-  Unless their job demands it, personnel are forbidden from entering maintenance tunnels. Personnel in violation of this order may be charged with trespassing;
+  Если работа не требует этого, сотрудникам запрещено входить в технические тоннели. Нарушители этого приказа могут быть обвинены в нарушении частной собственности;
 
-  Visitors to the station (anyone with Civilian-level access) are to remain inside the Bar, Library or Dormitories for the duration of Code Red;
+  Посетители станции (люди с доступом гражданского уровня) должны оставаться в баре, библиотеке или общежитиях на время действия Кода Красный;
 
-  Personnel are to follow the instructions of Security staff, so long as they are within the bounds of Space Law and are not acting against the general well-being of the station and its crew. Failure to do so may lead to their arrest for Creating a Workplace Hazard.
+  Сотрудники обязаны следовать указаниям персонала службы безопасности, если они соответствуют космическому законодательству и не противоречат общему благополучию станции и ее экипажа. Несоблюдение этих указаний может привести к аресту за создание опасности на рабочем месте.
 
-  Crewmembers in maintenance without proper reason or authorization may be detained for trespassing.
-
+  Члены экипажа в технических помещениях без веской причины или разрешения могут быть задержаны за нарушение частной собственности.
 </Document>

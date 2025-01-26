@@ -1,15 +1,15 @@
 <Document>
-# Science Department SOP
-These are the list of SOPs that Science Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# СРП Научного Отдела
+Это список СРП, которым должен следовать научный персонал. Как уже упоминалось, это [bold]не контрольные списки[/bold], и их следует рассматривать как руководящие принципы.
 
-<Box>For clarification, Roboticist can extend to any Science personnel working on Robots.</Box>
+<Box>Для уточнения: Робототехник может относиться к любому научному персоналу, работающему с роботами.</Box>
 
-It is expected that [color=#cc74fc]Research Assistant[/color] and [color=#cc74fc]Scientist[/color] coincide in the same SOP guidelines.
+Ожидается, что [color=#cc74fc]Научный Ассистент[/color] и [color=#cc74fc]Ученый[/color] следуют одним и тем же СРП.
 
-The following jobs have entries in this Department, the [color=#1b67a5][bold]Research Director[/bold][/color] being the Head of Staff:
-- [textlink="Research Director" link="ResearchDirector SOP"]
-- [textlink="Roboticist" link="Roboticist SOP"]
-- [textlink="Scientist" link="Scientist SOP"]
-- [textlink="Research Assistant" link="Scientist SOP"]
+Следующие должности имеют записи в этом отделе, где [color=#1b67a5][bold]Научный Руководитель[/bold][/color] является Главой Персонала:
+- [textlink="Научный Руководитель" link="ResearchDirector SOP"]
+- [textlink="Робототехник" link="Roboticist SOP"]
+- [textlink="Ученый" link="Scientist SOP"]
+- [textlink="Научный Ассистент" link="Scientist SOP"]
 
 </Document>

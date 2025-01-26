@@ -1,22 +1,22 @@
 <Document>
-# War Declaration Procedures
-In the event of a station-wide war declaration made by enemy forces, the Command should immediately set the station alert to [color=#ba292c]Red Alert[/color].
+  # Процедуры при объявлении войны
+  В случае объявления войны станцией враждебными силами, Командование должно немедленно установить уровень тревоги на станции на [color=#ba292c]Красный уровень тревоги[/color].
 
-1. All weapon restrictions are lifted, contraband permitted, and all station personnel should be alerted of this (if not already understood).
-<Box>Station AI, Cyborgs, and Beepsky/Security Bots, should be alerted of this as well.</Box>
+  1. Все ограничения на оружие снимаются, контрабанда разрешена, и весь персонал станции должен быть уведомлен об этом (если они еще не осознали).
 
-2. Cargo Department should focus on acquiring as many weapons as possible for station personnel.
+  <Box>ИИ станции, киборги и роботы Бипски/Охранные роботы должны также быть уведомлены об этом.</Box>
 
-3. Cargo Department should focus on acquiring as many materials for the station as possible.
+  2. Отдел Грузоперевозок должен сосредоточиться на приобретении как можно большего количества оружия для персонала станции.
 
-4. Research Department should focus on fabricating weaponry and technology to aid in station defense.
+  3. Отдел Грузоперевозок должен сосредоточиться на приобретении как можно большего количества материалов для станции.
 
-5. Erecting barricades and defense points is recommended to all personnel.
+  4. Исследовательский отдел должен сосредоточиться на создании оружия и технологий для защиты станции.
 
-6. Command and Security should operate in tandem to secure nuclear devices.
+  5. Рекомендуется возведение баррикад и оборонительных точек всем сотрудникам.
 
-7. In the event of a successful defense, if the station is relatively undamaged, shift should operate as normal.
+  6. Командование и охрана должны работать в тандеме для обеспечения безопасности ядерных устройств.
 
-8. In the event of the station being extremely damaged, or Command falling and nuclear devices ending up in enemy hands, the evacuation shuttle should be called.
+  7. В случае успешной защиты, если станция не сильно повреждена, смена должна продолжиться как обычно.
 
+  8. В случае сильных повреждений станции или захвата ядерных устройств врагом, должно быть вызвано эвакуационное судно.
 </Document>

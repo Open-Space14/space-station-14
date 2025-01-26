@@ -1,40 +1,39 @@
 ﻿<Document>
-    # Station Alert - Green
+    # Код станции - Зеленый
 
     <Box>
-        [italic]Called by: Anyone with Command-Level Access at a working Communications Console.[/italic]
+        [italic]Задано: Любым лицом с доступом командного уровня на рабочем коммуникационном консоли.[/italic]
     </Box>
 
-    [bold]Conditions:[/bold]
+    [bold]Условия:[/bold]
 
-    Default Alert Code at the start of the shift. Do not change unless a threat is suspected/confirmed;
+    Стандартный код оповещения в начале смены. Не изменять, если угроза не подозревается/не подтверждена;
 
-    [bold]OR[/bold]
+    [bold]ИЛИ[/bold]
 
-    All confirmed/suspected threats to the station and/or crew have been handled, or simply vanished on their own. It is recommended that, after 15+ minutes on Code Blue without any hostile activity, Code Green be called;
+    Все подтвержденные/предполагаемые угрозы для станции и/или экипажа были устранены или исчезли сами по себе. Рекомендуется, если после 15+ минут на Коде Синий не было никаких враждебных действий, установить Код Зеленый;
 
-    [bold]Security:[/bold]
+    [bold]Безопасность:[/bold]
 
-    All weapons must be holstered or kept in pockets/suit storage slots unless absolutely required;
+    Все оружие должно быть убрано в кобуру или храниться в карманах/отсеках скафандра, если это не требуется;
 
-    Random searches are not permitted without express permission by either the Head of Security or Captain. However, searches are still permitted if there is reasonable suspicion of a crime.
+    Случайные обыски не разрешены без прямого разрешения начальника службы безопасности или капитана. Однако обыски разрешены, если есть обоснованные подозрения в совершении преступления.
 
-    [bold]Secure Areas:[/bold]
+    [bold]Закрытые зоны:[/bold]
 
-    EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, anywhere else requiring command level access that does not get regularly used.
+    EVA Storage, Tech Storage, Gravity Generator, Engineering Secure Storage, AI Upload, Vault, Gateway, любые другие зоны с доступом командного уровня, которые не используются регулярно.
 
-    Secure areas such as EVA are to be left unbolted and ready to be used for their intended purposes.
+    Закрытые зоны, такие как EVA, должны оставаться незакрепленными и готовы к использованию по назначению.
 
-    Exceptions are below;
+    Исключения:
 
-    The Vault is not to be opened unless repairs are required, gold is required for Research and Development (in case Mining fails to deliver) or a critical item needs to be hidden in the safe.
+    Хранилище не должно быть открыто, если не требуется ремонт, золото необходимо для НИОКР (в случае, если горнодобыча не выполнена) или если критический предмет нужно спрятать в сейфе.
 
-    Searches of a person or department need to have a signed and stamped warrant by the Captain or HoP.
+    Обыск человека или отдела должен быть проведен по подписанному и проштампованному ордеру капитана или ХОПа.
 
-    [bold]General Crew:[/bold]
+    [bold]Общий экипаж:[/bold]
 
-    While not required, it is recommended that the crew activate and maximize their Suit Sensors, due to the potential for workplace accidents;
+    Хотя это не требуется, рекомендуется активировать и максимально использовать датчики скафандра из-за возможности несчастных случаев на рабочем месте;
 
-    Free transit through the station is permitted for the crew, excluding Secure Areas.
-
+    Свободный проход через станцию разрешен для экипажа, за исключением закрытых зон.
 </Document>

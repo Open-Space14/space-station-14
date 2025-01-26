@@ -1,23 +1,23 @@
 <Document>
-  # Resomi
+  # Ресоми
 
   <Box>
     <GuideEntityEmbed Entity="MobResomiDummy" Caption=""/>
   </Box>
 
-  Resomi are a small avian-like species that hail from an icy world.
+  Ресоми — это маленький вид, напоминающий птиц, родом с ледяного мира.
 
-  While their wings do not grant them complete flight, they are able to use them to maneuver better while in zero-gravity.
+  Хотя их крылья не дают им полноценной возможности летать, они могут использовать их для улучшения маневренности в условиях невесомости.
 
-  Like most other non-human species, Resomi are capable of digesting raw meat and other uncooked animal proteins.
+  Как и большинство других не-человеческих видов, Ресоми способны переваривать сырое мясо и другие необработанные животные белки.
 
-  As a result of the conditions of their home planet and ammonia-based blood, Resomi are considerably more tolerant of the cold, able to withstand temperatures as low as -77°C.
-  Consequently, they find temperatures that most other species find comfortable to be unbearably hot, finding themselves suffering starting at just 30°C.
+  Благодаря условиям их родной планеты и аммиачной крови, Ресоми значительно более устойчивы к холоду, способные выдерживать температуры до -77°C.
+  Однако температуры, которые другие виды находят комфортными, для них становятся невыносимо жаркими — страдать они начинают уже при 30°C.
 
-  Along with their temperature tolerances, they also take less cold damage and more heat damage, similar to Moth People.
+  Помимо их температурной устойчивости, они получают меньше урона от холода и больше урона от жары, как и люди-моли.
 
-  Due to their small size, they can fit in duffelbags.
+  Из-за своих небольших размеров они могут помещаться в рюкзаки.
 
-  Their unarmed attack deals Slash damage.
+  Их атаки без оружия наносят рубящий урон.
 
 </Document>

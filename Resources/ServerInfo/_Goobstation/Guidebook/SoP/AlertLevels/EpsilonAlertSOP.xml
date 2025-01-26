@@ -1,32 +1,31 @@
 <Document>
-  # Station Alert - Epsilon
+  # Код станции - Эпсилон
 
   <Box>
-    [italic]Called by: Central Command Only.[/italic]
+    [italic]Задано: Только Центральным командованием.[/italic]
   </Box>
 
-  [bold]Conditions:[/bold]
+  [bold]Условия:[/bold]
 
-  Central Command has deemed it necessary to terminate all contracts.
+  Центральное командование сочло необходимым расторгнуть все контракты.
 
-  [bold]Security:[/bold]
+  [bold]Безопасность:[/bold]
 
-  Security and the rest of the station are to fend for themselves. All contracts are terminated and nothing is required to act upon.
+  Служба безопасности и остальной персонал станции должны полагаться на себя. Все контракты расторгнуты, никаких действий не требуется.
 
-  [bold]Secure Areas:[/bold]
+  [bold]Закрытые зоны:[/bold]
 
-  The entire station is considered a secure area.
+  Вся станция считается закрытой зоной.
 
-  All Secure Areas are to be bolted down. Secure Areas may be left unbolted at the discretion of any personnel with access to do so.
+  Все закрытые зоны должны быть зафиксированы. Закрытые зоны могут быть оставлены незакрепленными по усмотрению любого персонала с доступом для этого.
 
-  [bold]General Crew:[/bold]
+  [bold]Общий экипаж:[/bold]
 
-  All personnel are no longer required to maximize suit sensors. Do so at your discretion.
+  Все сотрудники больше не обязаны активировать датчики скафандра. Делайте это по своему усмотрению.
 
-  All personnel are no longer required to remain in any Department.
+  Все сотрудники больше не обязаны оставаться в каком-либо отделе.
 
-  Visitors of the station, anyone without Central Command access, are to fend for themselves along with the station crew.
+  Посетители станции, а также все без доступа к Центральному командованию, должны полагаться на себя вместе с экипажем станции.
 
-  Personnel are no longer required to follow instructions from any other person.
-
+  Сотрудники больше не обязаны следовать указаниям от других людей.
 </Document>

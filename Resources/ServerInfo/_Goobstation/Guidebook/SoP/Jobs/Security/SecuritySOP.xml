@@ -1,14 +1,14 @@
 <Document>
-# Security Department SOP
-These are the list of SOPs that Security Personnel should follow. These are, as stated before, [bold]not checklists[/bold] and should be treated as guidelines.
+# СРП Отдела Безопасности
+Это список СРП, которым должен следовать персонал службы безопасности. Как уже упоминалось, это [bold]не контрольные списки[/bold], и их следует рассматривать как руководящие принципы.
 
-For reference, [color=#ba292c][bold]Security Officer[/bold][/color] and [color=#ba292c][bold]Security Cadet[/bold][/color] have been combined in the same entry, for ease of use.
+Для удобства [color=#ba292c][bold]Офицер Безопасности[/bold][/color] и [color=#ba292c][bold]Кадет Безопасности[/bold][/color] объединены в одну запись.
 
-The following jobs have entries in this department, the [color=#1b67a5][bold]Head of Security[/bold][/color] being the Head of Staff and [color=#ba292c][bold]Warden[/bold][/color] commanding underneath them:
-- [textlink="Head of Security" link="HeadOfSecurity SOP"]
-- [textlink="Warden" link="Warden SOP"]
-- [textlink="Detective" link="Detective SOP"]
-- [textlink="Security Officer" link="OfficerCadet SOP"]
-- [textlink="Security Cadet" link="OfficerCadet SOP"]
+Следующие должности имеют записи в этом отделе, где [color=#1b67a5][bold]Глава Службы Безопасности[/bold][/color] является Главой Персонала, а [color=#ba292c][bold]Надзиратель[/bold][/color] подчиняется ему:
+- [textlink="Глава Службы Безопасности" link="HeadOfSecurity SOP"]
+- [textlink="Надзиратель" link="Warden SOP"]
+- [textlink="Детектив" link="Detective SOP"]
+- [textlink="Офицер Безопасности" link="OfficerCadet SOP"]
+- [textlink="Кадет Безопасности" link="OfficerCadet SOP"]
 
 </Document>

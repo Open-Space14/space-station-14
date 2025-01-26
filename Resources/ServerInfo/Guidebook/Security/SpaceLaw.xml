@@ -1,278 +1,119 @@
 <Document>
-  # Space Law
-  Goob Station operates under abbreviated space law. All crew, passengers, and visitors aboard the station are expected to know and follow these laws (they are fairly common sense, only security and the captain need to know the times).
+  # Космическое законодательство
+  Open Space работает по сокращенному космическому законодательству. Все члены экипажа, пассажиры и посетители на станции должны знать и следовать этим законам (они достаточно очевидны, только службе безопасности и капитану нужно знать точное время).
 
-  ## Treatment Of Prisoners
+  ## Обращение с заключенными
 
-  Prisoners still have certain rights that must be upheld by law enforcement:
+  Заключенные все еще имеют определенные права, которые должны соблюдаться правоохранительными органами:
 
-  - Prisoners must be granted adequate medical care. They should also be provided psychiatric and spiritual counselling if requested.
-  - Prisoners must be allowed access to communications equipment (Radios) so long as they are not abused.
-  - Prisoners must be granted clothing, food, water, shelter and safety. If the brig is no longer safe, confinement must be established in another location.
-  - Prisoners must be given access to legal counsel during an interrogation if requested and available.
-  - Prisoners must be given their shift mandated PDA after confinement has finished. Unless there is solid proof of PDA tampering, in which case the PDA is to be secured and replaced with a fresh one.
-  - Prisoners must be granted freedom of movement, and should not be restrained with handcuffs or other devices after incarceration unless there is an undue risk to life and limb. Similarly, any prisoners held for extended or permanent confinement should be held in the communal brig, and should not be confined to a solitary cell unless they pose a risk to life and limb.
+  - Заключенные должны получать надлежащую медицинскую помощь. Им также должны предоставляться психиатрические и духовные консультации по запросу.
+  - Заключенным должен быть предоставлен доступ к средствам связи (радио), если это не злоупотребляется.
+  - Заключенные должны быть обеспечены одеждой, едой, водой, жильем и безопасностью. Если камера больше не безопасна, заключение должно быть установлено в другом месте.
+  - Заключенные должны быть обеспечены доступом к юридической помощи во время допроса, если это необходимо и доступно.
+  - Заключенным должен быть возвращен их личный PDA после завершения заключения. Если есть доказательства манипуляций с PDA, устройство должно быть заблокировано и заменено новым.
+  - Заключенные должны иметь свободу передвижения и не должны быть скованы наручниками или другими средствами после заключения, если только это не представляет угрозу жизни и здоровью. Точно так же заключенные, которые содержатся длительное или постоянное время, должны содержаться в общих камерах, а не в одиночных, если они не представляют угрозу жизни и здоровью.
 
-  ## Searches
+  ## Обыски
 
-  A personnel search is a seizure of the objects in a person's backpack, hands, coat, belt, pockets, and hat. If any contraband is found during a search the officer may choose to further the search into a detainment or simply confiscate the restricted items. After the search is conducted all legal items are to be returned to the person.
+  Обыск персонала — это изъятие предметов из рюкзака, рук, пальто, пояса, карманов и шляпы человека. Если в ходе обыска обнаружен контрабандный товар, офицер может решить продолжить обыск, задержать человека или просто изъять запрещенные предметы. После завершения обыска все законные предметы должны быть возвращены владельцу.
 
-  A crewmate may legally decline any search conducted without a warrant while the alert level is green. Should be noted that if the alert level is blue or above all personnel searches are legal and no longer require a warrant.
+  Член экипажа может законно отказаться от обыска, если нет ордера, пока уровень тревоги зеленый. Следует отметить, что если уровень тревоги синий или выше, все обыски являются законными и не требуют ордера.
 
-  ## Implantation
+  ## Имплантация
 
-  Any prisoner in custody can be subjected to implantation or implant removal procedures, so long as it's within reason. The process of adding an implant should not prolong the detainees sentence, meaning you can not hold them longer to administer the implant, unless stated otherwise. A prisoner can still receive implantation procedures without meeting the circumstances if they give their clear permission.
+  Любой заключенный, находящийся под стражей, может быть подвергнут процедуре имплантации или удалению импланта, если это оправдано. Процесс добавления импланта не должен увеличивать срок заключения, то есть задерживать человека дольше нельзя, если не указано иное. Заключенный может также пройти процедуру имплантации без выполнения условий, если даст свое ясное согласие.
 
-  [bold]Mind Shields[/bold]: Shields can be administered to any inmate who has been clearly mind controlled, lost control of themselves, or a suspect charged with unlawful control. Unlike standard implantation you may hold a prisoner until you finish issuing Mind Shields, so long as it's done in a timely fashion. If a suspect refuses cooperate or the implant fails to function they can be charged with Refusal of Mental Shielding.
+  [bold]Ментальные щиты[/bold]: Щиты могут быть установлены любому заключенному, который был явно подвергнут ментальному контролю, потерял контроль над собой или подозревается в незаконном контроле. В отличие от стандартной имплантации, вы можете задержать заключенного до завершения установки Ментальных Щитов, если это сделано вовремя. Если подозреваемый отказывается сотрудничать или имплант не функционирует, он может быть обвинен в отказе от установки ментального щита.
 
-  # Removal
+  # Удаление
 
-  A suspect can be forced to receive implant removal if there is strong reasonable proof that they have been implanted, such as an officer seeing them use one or their prints being on a discarded injector. Unlike implantation procedure a prisoner can have their sentence entirely delayed or extended until they comply with the procedure, as long as security are actively making attempts to preform it. Akin to implanting, if an inmate gives their clear permission, implant removal can proceed without proof.
+  Подозреваемого можно принудительно подвергнуть удалению импланта, если есть веские доказательства, что он был имплантирован, например, если офицер видел, как он использует имплант, или его отпечатки на выброшенном инжекторе. В отличие от имплантации, заключенный может быть задержан или его срок может быть продлен до тех пор, пока он не выполнит процедуру, если безопасность активно пытается ее провести. Аналогично имплантации, если заключенный дает свое согласие, процедура удаления импланта может быть проведена без доказательств.
 
-  ## Sentencing
-  All sentencing is to be handled by the Warden, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member.
+  ## Приговоры
+  Все приговоры должны быть выданы Уполномоченным, если нет Уполномоченного, то это обязанность брать на себя старший сотрудник службы безопасности, если нет сотрудника безопасности, приговор выносит самый высокий командирский офицер.
 
-  Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
+  Используйте здравый смысл и человечность при вынесении наказаний. Не следует всегда стремиться к самому строгому наказанию, вы не обязаны всегда давать максимальный срок или всегда стремиться понизить кого-то в должности. Всегда учитывайте серьезность и наказывайте только за то, что действительно нужно для урока.
 
-  [bold]Accessory, Attempting, And Intention:[/bold] If someone intentionally, knowingly and substantially assists someone in enacting a crime they can be charged with the relevant crimes, such as an engineer giving someone tools, who says they are going to break into an area. Same goes for a clear and solid attempt at a crime, or a person who shows clear intent to act out a crime, such as a syndicate nuclear operative arming a nuke but getting arrested before it goes off, they can still be charged with terrorism. Does not apply to crimes that have an attempted listing already, like attempted murder.
+  [bold]Соучастие, Попытка и Намерение:[/bold] Если кто-то сознательно, осознанно и существенно помогает кому-то совершить преступление, его можно обвинить в соответствующих преступлениях, например, инженер, дающий кому-то инструменты, чтобы тот взломал объект. То же самое касается явной и четкой попытки преступления или человека, который явно намерен совершить преступление, например, оперативник синдиката, готовящий ядерную бомбу, но арестованный до того, как она взорвется — его можно обвинить в терроризме. Это не относится к преступлениям, которые уже имеют статус попытки, например, покушение на убийство.
 
-  [bold]Stackable Crimes:[/bold] Crimes are to be considered 'stackable' in the sense that if you charge someone with two or more different crimes, you should combine the times you would give them for each crime.
+  [bold]Накопление преступлений:[/bold] Преступления считаются "накопляемыми" в том смысле, что если вы обвиняете кого-то в двух или более разных преступлениях, вы должны сложить сроки, которые вы даете за каждое из преступлений.
 
-  # [color=red][bold]"YOU MAY NOT EXCEED 10 MINUTES AS A BRIG TIME"[/bold][/color]
+  # [color=red][bold]"НЕЛЬЗЯ ПРИСУЖДАТЬ БОЛЕЕ 10 МИНУТ ТЮРЕМНОГО ВРЕМЕНИ!"[/bold][/color]
 
-  # Any total brig time that adds up to above 10 minutes will be shortened to meet this limit.
+  # Если общий срок тюремного заключения превышает 10 минут, он будет сокращен до этого лимита.
 
-  # If it goes above 20 minutes, you may perma the person.
+  # Если превышает 20 минут, вы можете перманентно заключить человека.
 
+  # Преступления
 
+  # I степень
 
-  # Crimes
+  Для мелких преступлений решите проблему и предупредите человека, чтобы он больше не пытался совершать преступление. Если они снова это сделают позже, можно применить тюремный срок.
 
-  # I Degree
+  ## Нарушение порядка
 
-  For minor crimes, fix the issue then warn the person to not attempt the crime again, if they still proceed to do it at a later date, a brig time may be better.
+  [bold]Описание[/bold]: Создание общественного беспорядка.
 
-  ## Disturbance
+  [bold]Максимальное наказание:[/bold] 2:00
 
-  [bold]Description[/bold]: To cause a public disturbance.
+  [bold]Примечания:[/bold] Иногда называется хулиганством. Это общее понятие для надоедливых членов экипажа. Включает такие действия, как публичная нагота, бессмысленные оскорбления, воспрепятствование властям и разжигание преступлений или насилия.
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  ## Мелкое воровство
 
-  [bold]Notes:[/bold] Sometimes referred to as hooliganism. The catch-all for obnoxious crewmates. Covers things such as public nudity, needless insults, obstructing authorities, and inciting crime or violence.
+  [bold]Описание[/bold]: Присвоение несущественного или дешевого имущества другого человека, организации или общественного имущества без согласия.
 
-  ## Petty Theft
+  [bold]Максимальное наказание:[/bold] 3:00
 
-  [bold]Description[/bold]: To take non-vital or inexpensive property of another individual, organization, or common property, without consent.
+  [bold]Примечания:[/bold] Разница между мелким и крупным воровством зависит от важности украденного предмета, такие вещи, как инструменты, одежда и инструменты относятся к мелкому воровству. В большинстве случаев достаточно задержать вора, вернуть украденное имущество и отпустить его с предупреждением.
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  ## Ношение/Использование запрещенных веществ
 
-  [bold]Notes:[/bold] The difference between petty theft and grand theft is based on how crucial the stolen item is, things like instruments, clothing and tools fall under petty theft. In most cases all you need to do is detain the thief, return the stolen item and let them go with a warning.
+  [bold]Описание[/bold]: Создание, хранение или злоупотребление запрещенными наркотиками или химикатами.
 
-  ## Possession/Use of Illegal Substances
+  [bold]Максимальное наказание:[/bold] 3:00
 
-  [bold]Description[/bold]: To make, hold, or abuse restricted drugs or chemicals.
+  [bold]Примечания: Это следует делать в соответствии с установленными стандартными операционными процедурами. Если что-то сомнительное не указано в SOP, капитан или старший командный состав может публично ограничить это.[/bold]
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  ## Нарушение запрета
 
-  [bold]Notes: This is to be followed in accordance with Standard Operating Procedure. If anything questionable is not brought up in SOP the captain or highest standing command staff may publicly restrict it.[/bold]
+  [bold]Описание[/bold]: Проникновение в неохраняемое помещение без разрешения.
 
-  ## Tresspass
+  [bold]Максимальное наказание:[/bold] 2:00
 
-  [bold]Description[/bold]: To enter a non-secured area without permission.
+  [bold]Примечания:[/bold] Лучше просто удалить их из этой зоны, если это не повторяющееся преступление.
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  ## Вандализм
 
-  [bold]Notes:[/bold] It's best to just remove them from the area unless this is a repeated crime.
+  [bold]Описание[/bold]: Намеренное повреждение или поверхностное уничтожение общественного или частного имущества.
 
-  ## Vandalism
+  [bold]Максимальное наказание:[/bold] 2:00
 
-  [bold]Description[/bold]: To intentionally deface or superficially damage public or private property.
+  [bold]Примечания:[/bold] Рисование граффити, разбивание бокалов в барах и треснувшие внутренние окна — это вандализм, но разбивание окна в космос или в охраняемые зоны — нет.
 
-  [bold]Maximum Punishment:[/bold] 2:00
+  # II степень
 
-  [bold]Notes:[/bold] Painting graffiti, smashing bar glasses, and cracking internal windows is vandalism, breaking a window into space or secure areas is not.
+  ## Жестокость по отношению к животным
 
+  [bold]Описание[/bold]: Причинение ненужных страданий или вреда неразумному существу с умыслом.
 
+  [bold]Максимальное наказание:[/bold] 3:00
 
-  # II Degree
+  [bold]Примечания:[/bold] Это не включает легитимные и авторизованные эксперименты с животными и обычно не распространяется на грызунов или существа, которые могут угрожать станции.
 
-  ## Animal Cruelty
+  ## Повреждение/Уничтожение имущества
 
-  [bold]Description[/bold]: To inflict unnecessary suffering or harm on a non-sapient being with malicious intent.
+  [bold]Описание[/bold]: Умышленное повреждение или уничтожение собственности другого лица.
 
-  [bold]Maximum Punishment:[/bold] 3:00
+  [bold]Максимальное наказание:[/bold] 3:00
 
-  [bold]Notes:[/bold] This doesn't include legitimate and authorized animal testing and usually doesn't extend to vermin or creatures that could pose a threat to the station.
+  [bold]Примечания:[/bold] Это касается незначительных повреждений собственности, таких как нарушения оборудования, которое не имеет большого значения.
 
-  ## Damage/Destruction of Property
+  ## Нарушение охраны
 
-  [bold]Description[/bold]: To maliciously damage or deface public or private property or equipment.
+  [bold]Описание[/bold]: Проникновение в охраняемую зону без должного разрешения.
 
-  [bold]Maximum Punishment:[/bold] 4:00
+  [bold]Максимальное наказание:[/bold] 4:00
 
-  [bold]Notes:[/bold] Step up from vandalism but a step down from mass destruction.
+  [bold]Примечания:[/bold] Это уже более серьезное преступление, чем незаконное проникновение в неохраняемую территорию, так как оно подвергает станцию риску.
 
-  ## Endangerment
-
-  [bold]Description[/bold]: To recklessly put yourself or others in danger, either through direct action, or failure to act.
-
-  [bold]Maximum Punishment:[/bold] 4:00
-
-  [bold]Notes:[/bold] Covers industrial accidents, industrial negligence, self-experimentation, or even medical malpractice.
-
-  ## Failure to Comply
-
-  [bold]Description[/bold]: To resist reasonable orders given by an authority. This extends to warrants and authorized searches.
-
-  [bold]Maximum Punishment:[/bold] 2:00
-
-  [bold]Notes:[/bold] The order has to be reasonable and the person has to receive a good amount of warning before the arrest is issued.
-
-  ## Posession of Restricted Gear
-
-  [bold]Description[/bold]: To hold or use non-lethal items or objects that are restricted or illegal.
-
-  [bold]Maximum Punishment:[/bold] 5:00
-
-  [bold]Notes:[/bold] This is mostly for syndicate contraband; EMAGs, syndicate gas masks, bloodred hardsuits, hijacked PDAs, or implants, however can sometimes extend to things the individual shouldn't possess like kevlar vests and security gear.
-
-  ## Rioting
-
-  [bold]Description[/bold]: To take part in a large group of personnel creating an unlawful public disturbance.
-
-  [bold]Maximum Punishment:[/bold] 4:00
-
-  [bold]Notes:[/bold] Crimes like damage of property or battery are expected to be thrown on top of this charge. Leaders of a riot can be charged with all crimes that happen under their lead.
-
-
-
-  # III Degree
-
-  ## Assault/Battery
-
-  [bold]Description[/bold]: To threaten to or to use physical force against someone without the intent to kill.
-
-  [bold]Maximum Punishment:[/bold] 6:00
-
-  [bold]Notes:[/bold] Attempted murder and battery are different, make sure you've got it right.
-
-  ## Breach of Arrest
-
-  [bold]Description[/bold]: To intentionally resist and flee arrest or detainment by an authorized staff.
-
-  [bold]Maximum Punishment:[/bold] 4:00
-
-  [bold]Notes:[/bold] This only applies if the person is actively being physically arrested. Includes people uncuffing or assisting others out of an arrest. Breach of custody is a separate crime.
-
-  ## Grand Theft
-
-  [bold]Description[/bold]: To take critical or unreplaceable property of another individual or organization without consent.
-
-  [bold]Maximum Punishment:[/bold] 6:00
-
-  [bold]Notes:[/bold] The difference between petty theft and grand theft is based on how crucial the stolen item is, this mostly is used for the theft of command staff items, things like door remotes, hardsuits, jetpacks, and unreplaceable machine parts.
-
-  ## Manslaughter
-
-  [bold]Description[/bold]: To incidentally kill a sapient being without intent.
-
-  [bold]Maximum Punishment:[/bold] 8:00
-
-  [bold]Notes:[/bold] Includes manslaughter in self-defense and negligent manslaughter.
-
-  ## Mass Destruction
-
-  [bold]Description[/bold]: To cause massive damage to an area or major station system.
-
-  [bold]Maximum Punishment:[/bold] 10:00
-
-  [bold]Notes:[/bold] This is mostly used for deadly bombings or sabotage of major station systems such as power production, cloning, substations, or atmos.
-
-  ## Posession of Restricted Weaponry
-
-  [bold]Description[/bold]: To hold or use a weapon that is unlawful or contraband.
-
-  [bold]Maximum Punishment:[/bold] 6:00
-
-  [bold]Notes:[/bold] Everything from guns without a permit, deadly blades, explosives, syndicate firearms to explosive implants.
-
-  ## Secure Tresspass
-
-  [bold]Description[/bold]: To enter a secured area without permission.
-
-  [bold]Maximum Punishment:[/bold] 6:00
-
-  [bold]Notes:[/bold] This covers places like telecomms, head offices, security zones, command areas, the vault and armory.
-
-  ## Breach of Custody
-
-  [bold]Description[/bold]: To break out of a cell or custody with the intention of escaping.
-
-  [bold]Maximum Punishment:[/bold] 5:00
-
-  [bold]Notes:[/bold] This time should be added on top of a prisoners current brig time. While rare, this charge can be bumped to permanent brig if the suspect has repeatedly attempted to break out of the permanent brig. Includes people breaking others out.
-
-
-
-  # IV Degree
-
-  ## Attempted Murder
-
-  [bold]Description[/bold]: To make an attempt to use physical force against someone with the clear intent to kill.
-
-  [bold]Maximum Punishment:[/bold] 10:00
-
-  [bold]Notes:[/bold] Make sure you've got the proof to back up the intention claims.
-
-  ## Unlawful Control/Kidnapping/Hostage Taking
-
-  [bold]Description[/bold]: To unlawfully restrain, transport, control or confine a sapient being against that individual's will.
-
-  [bold]Maximum Punishment:[/bold] 10:00
-
-  [bold]Notes:[/bold] A large range of things, used mostly as a catch all when dealing with unlawful control of another being.
-
-  ## Murder
-
-  [bold]Description[/bold]: To kill a sapient being with malicious intent.
-
-  [bold]Maximum Punishment:[/bold] 10:00
-
-  [bold]Notes:[/bold] This only changes from attempted to full on murder if the victim enters a state of being deceased, having to be resurrected.
-
-
-
-  # V Degree
-
-  ## Mass Murder
-
-  [bold]Description[/bold]: To kill three or more sapient beings with malicious intent.
-
-  [bold]Maximum Punishment:[/bold] Permanent
-
-  [bold]Notes:[/bold] Only applies when there have been multiple killings with intention.
-
-  ## Prevention of Revival
-
-  [bold]Description[/bold]: To render a body unresurrectable.
-
-  [bold]Maximum Punishment:[/bold] Permanent
-
-  [bold]Notes:[/bold] This covers gibbing, spacing, intentionally hiding a body leading to it rotting, or other ways of preventing a body with a soul from being resurrected.
-
-  ## Refusal of Mental Shielding
-
-  [bold]Description[/bold]: To refuse to comply with a reasonable Mind Shielding procedure.
-
-  [bold]Maximum Punishment:[/bold] Permanent
-
-  [bold]Notes:[/bold] Applies if the suspect is excessively uncooperative or the implant fails to function due to the mental state of the prisoner already being too far gone. If the implant fails the maximum punishment is upped to Expedited Execution.
-
-  ## Terrorism
-
-  [bold]Description[/bold]: To engage in maliciously destructive actions which threaten to destroy, or successfully destroy a vessel or habitat.
-
-  [bold]Maximum Punishment:[/bold] Execution
-
-  [bold]Notes:[/bold] Summed up; extreme sabotage of station systems or setting off self-destruction systems.
 </Document>

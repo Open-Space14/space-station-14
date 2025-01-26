@@ -1,11 +1,11 @@
 <Document>
-  # Vulpkanin
+  # Вулпканин
   <Box>
     <GuideEntityEmbed Entity="MobVulpkanin" Caption=""/>
   </Box>
-  
-  Vulpkanin are fox-human hybrids, sporting distinct ears and tails. They see the world in reds and greens,
-  deal [color=#ec3a3a]blunt [/color]and [color=#ec3a3a]slash [/color] damage with their claws, are a little less
-  affected by temperatures, and capable of stealing things from people a little faster
-  
+
+  Вулпканин — это гибриды лис и людей, с характерными ушами и хвостами. Они видят мир в красных и зеленых оттенках,
+  наносят [color=#ec3a3a]тупой [/color]и [color=#ec3a3a]резающий [/color]урон своими когтями, немного меньше
+  подвержены воздействиям температур и способны быстрее воровать вещи у людей.
+
 </Document>

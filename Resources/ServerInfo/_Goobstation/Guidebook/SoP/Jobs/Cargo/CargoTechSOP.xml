@@ -1,30 +1,30 @@
 <Document>
-# Cargo Technician SOP
-This is the list of procedures, responsibilities, and duties of the [color=#846326]Cargo Technician[/color] of this station.
+  # Стандартные рабочие процедуры для техника по грузоперевозкам
+  Это список процедур, обязанностей и задач [color=#846326]техника по грузоперевозкам[/color] на станции.
 
-1. Cargo Technicians must ensure that every approved order is delivered within 15 minutes of having been placed and approved.
+  1. Техники по грузоперевозкам должны обеспечить доставку каждого одобренного заказа в течение 15 минут после его размещения и одобрения.
 
-2. Cargo Technicians are not permitted to handle restricted crates (crates for Security/Command).
+  2. Техникам по грузоперевозкам запрещено обрабатывать ограниченные ящики (ящики для Службы Безопасности/Командования).
 
-3. Cargo Technicians are not permitted to order items for sole personal use with the supply department account without express consent from the Quartermaster.
-<Box>Exception is made if there are more than [bold]7,500 spesos[/bold] available and no outstanding orders. Cargo Technicians may not deplete the entire department account balance for this.</Box>
+  3. Техникам по грузоперевозкам запрещено заказывать товары для личного пользования с помощью счета поставок без явного согласия Квартального.
+  <Box>Исключение сделано, если на счету доступно более [bold]7,500 спефов[/bold] и нет неисполненных заказов. Техники по грузоперевозкам не могут полностью истощить баланс счета отдела.</Box>
 
-4. Cargo Technicians are not permitted to order non-essential items using the supply account (such as cats, or clothing) without express consent from the Quartermaster.
+  4. Техникам по грузоперевозкам запрещено заказывать несущественные товары с использованием счета поставок (например, кошек или одежду) без явного согласия Квартального.
 
-5. Cargo Technicians are not permitted to force and/or break open locked crates.
-<Box>Exception is made for Abandoned Crates found by Salvaging.</Box>
+  5. Техникам по грузоперевозкам запрещено насильно открывать или взламывать запертые ящики.
+  <Box>Исключение сделано для покинутых ящиков, найденных при аварийной сборке.</Box>
 
-6. Cargo Technicians are not permitted to authorize non-departmental orders (such as a Medical Doctor asking for Insulated Gloves) without express permission from the Quartermaster.
+  6. Техникам по грузоперевозкам запрещено одобрять заказы, не относящиеся к их отделу (например, медицинский работник запрашивает термозащитные перчатки), без явного разрешения Квартального.
 
-7. Cargo Technicians are to ensure and verify that the personnel ordering in the request form is a crew member and is correct identification and shows the correct reason in the request.
+  7. Техники по грузоперевозкам должны проверять и удостоверяться, что запрашивающее лицо является членом экипажа, правильно идентифицировано и указано правильное основание для запроса.
 
-8. Cargo Technicians must ensure at least one copy of every Order Form (ie, the forms produced by the Requests Console) is kept inside Cargo until the order is finished.
+  8. Техники по грузоперевозкам должны сохранять хотя бы одну копию каждой формы заказа (например, формы, созданные с помощью консоли запросов) в отделе грузоперевозок до завершения заказа.
 
-9. Cargo Technicians must send back all crates that have been ordered, with accompanying manifest on the crate.
+  9. Техники по грузоперевозкам должны отправлять все заказанные ящики обратно с сопровождающим манифестом для ящика.
 
-10. Cargo Technicians are not permitted to ask for spesos in exchange for legal cargo crate orders or autolathe requests from crew members.
+  10. Техникам по грузоперевозкам запрещено запрашивать спефы в обмен на законные заказы ящиков с грузом или автолате-запросы от членов экипажа.
 
-11. Cargo Technicians are not permitted to trade items and/or favors in exchange for items with regular personnel without express consent from the Quartermaster.
+  11. Техникам по грузоперевозкам запрещено обменивать товары и/или услуги на предметы с обычными сотрудниками без явного согласия Квартального.
 
-12. Cargo Technicians are not to keep any illegal items that are flushed down Disposals, and must deliver them to Security.
+  12. Техникам по грузоперевозкам запрещено хранить нелегальные предметы, которые были выброшены в Система Утилизации, и они должны быть переданы Службе Безопасности.
 </Document>

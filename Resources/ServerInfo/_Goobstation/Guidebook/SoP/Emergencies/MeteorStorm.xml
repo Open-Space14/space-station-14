@@ -1,17 +1,16 @@
 <Document>
-# Meteor Storm Procedures
-In the event of a meteor storm affecting the station, the station alert should be set to [color=#c8a404]Yellow Alert[/color] until the meteor storm damage/event is over.
+  # Процедуры при метеоритном шторме
+  В случае, если метеоритный шторм влияет на станцию, уровень тревоги должен быть установлен на [color=#c8a404]Желтый уровень тревоги[/color] до окончания метеоритного шторма.
 
-1. Station personnel are to report damages and assist injured crew when possible.
+  1. Персонал станции должен сообщать о повреждениях и помогать пострадавшему экипажу, когда это возможно.
 
-2. Repair activities should be prioritized for immediate/severe damage areas, and should not be done to low-impacted areas until after the event is over.
+  2. Работы по ремонту должны быть приоритетом в зонах с немедленными/серьезными повреждениями, и не должны проводиться в зонах с низким уровнем повреждений до окончания события.
 
-3. All personnel performing EVA/shuttle activity (primarily Cargo Department) should return until the meteor storm event is over.
+  3. Все сотрудники, выполняющие деятельность с ЭВА/шаттлом (в первую очередь отдел Корабельных Поставок), должны вернуться до окончания метеоритного шторма.
 
-4. Engineering Personnel should repair all damages with location assistance from crew, when the meteor storm is over.
+  4. Персонал инженерной службы должен провести ремонт повреждений с помощью экипажа, как только метеоритный шторм закончится.
 
-5. In the event that the station damage is too severe, the evacuation shuttle should be called.
+  5. В случае, если повреждения станции слишком серьезные, должен быть вызван эвакуационный шаттл.
 
-6. In the event of the meteor storm remaining prolonged in time, immediate evacuation may be requested from Central Command.
-
+  6. В случае, если метеоритный шторм длится слишком долго, может быть запрашиваемая немедленная эвакуация от Центрального Командования.
 </Document>

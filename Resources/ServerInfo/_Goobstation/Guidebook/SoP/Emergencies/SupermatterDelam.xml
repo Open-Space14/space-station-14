@@ -1,16 +1,16 @@
 <Document>
-# Supermatter Delamination Procedures
-In the event of the supermatter crystal completely delaminating, the station alert should be set to [color=#a40484]Delta Alert[/color] and the evacuation shuttle should be called.
+  # Процедуры при деламинации суперматерии
+  В случае полной деламинации кристалла суперматерии уровень тревоги на станции должен быть установлен на [color=#a40484]Дельта уровень тревоги[/color], и должно быть вызвано эвакуационное судно.
 
-1. If the Supermatter Crystal integrity is rapidly declining, Engineering personnel should vent the atmosphere in an attempt to stabilize it.
+  1. Если целостность кристалла суперматерии быстро снижается, инженерный персонал должен провести выпуск атмосферы с целью стабилизации.
 
-2. If the Supermatter Crystal integrity is nearing zero, Engineering personnel should attempt to fix and/or prepare containment fields to contain the delamination.
+  2. Если целостность кристалла суперматерии близка к нулю, инженерный персонал должен попытаться починить и/или подготовить поля сдерживания для предотвращения деламинации.
 
-3. If the Supermatter Crystal is beyond saving, containment fields impossible to setup, Engineering personnel should attempt to remove the Supermatter Crystal from the station by any means necessary.
+  3. Если кристалл суперматерии невозможно спасти, поля сдерживания невозможно настроить, инженерный персонал должен попытаться удалить кристалл суперматерии с станции любыми доступными средствами.
 
-4. If the delamination is contained, the station alert should be set to a safe alert level, and crew should be notified of the recovery.
-<Box>Engineering personnel should alert the crew of a successful containment.</Box>
+  4. Если деламинация была сдержана, уровень тревоги должен быть возвращен на безопасный уровень, и персонал должен быть уведомлен о восстановлении.
 
-5. If it is found that the delamination process was due to gross negligence, incompetence, and/or sabotage, the personnel responsible should be dismissed/demoted.
+  <Box>Инженерный персонал должен уведомить экипаж об успешном сдерживании.</Box>
 
+  5. Если выяснится, что процесс деламинации был вызван грубой халатностью, некомпетентностью и/или саботажем, виновные сотрудники должны быть уволены/понижены в должности.
 </Document>

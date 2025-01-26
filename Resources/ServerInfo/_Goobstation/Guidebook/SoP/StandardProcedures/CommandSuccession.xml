@@ -1,46 +1,46 @@
 <Document>
-# Chain of Command
-This is the ideal list for passing down the Captain role in command. There are several factors to take into respect here, but this boils down to a simple list.
+# Цепочка Командования
+Это идеальный список для передачи роли Капитана в командовании. Здесь необходимо учитывать несколько факторов, но все сводится к простому списку.
 
-[bullet/][color=#1b67a5]Blueshield Officer[/color] (BSO) and [color=#1b67a5]Nanotrasen Representative[/color] (NTR) should never hold a position of command on this station.
+[bullet/][color=#1b67a5]Офицер Блюшилд[/color] (BSO) и [color=#1b67a5]Представитель Nanotrasen[/color] (NTR) никогда не должны занимать командные должности на этой станции.
 
-[bullet/]This list can be deviated from for special circumstances, with the vote resting on Command to do so.
+[bullet/]Этот список может быть изменен в особых обстоятельствах, при этом решение принимается голосованием Командования.
 
-[bullet/][color=#1b67a5]Nanotrasen Representative[/color], if one is present, should assist in this process and guide the new Captain.
+[bullet/][color=#1b67a5]Представитель Nanotrasen[/color], если он присутствует, должен помочь в этом процессе и направлять нового Капитана.
 
-[bullet/]When choosing the succeeding Captain, they should be marked on their ID as [color=#1b67a5]Acting Captain[/color] (following the same promotion procedures).
+[bullet/]При выборе преемника Капитана он должен быть отмечен на своем ID как [color=#1b67a5]Исполняющий Обязанности Капитана[/color] (с соблюдением тех же процедур повышения).
 
 <Box>~</Box>
-<Box>[bold][color=#1b67a5][head=1]Command Succession[/head][/color][/bold]</Box>
-<Box>Captain</Box>
-<Box>Head of Personnel (HoP)</Box>
-<Box>Head of Security (HoS)</Box>
-<Box>Warden</Box>
-<Box>Research Director (RD)</Box>
-<Box>Chief Medical Officer (CMO)</Box>
-<Box>Chief Engineer (CE)</Box>
-<Box>Quartermaster (QM)</Box>
-<Box>Security Officer</Box>
+<Box>[bold][color=#1b67a5][head=1]Преемственность Командования[/head][/color][/bold]</Box>
+<Box>Капитан</Box>
+<Box>Глава Персонала (HoP)</Box>
+<Box>Глава Службы Безопасности (HoS)</Box>
+<Box>Надзиратель</Box>
+<Box>Научный Руководитель (RD)</Box>
+<Box>Главный Врач (CMO)</Box>
+<Box>Главный Инженер (CE)</Box>
+<Box>Квартирмейстер (QM)</Box>
+<Box>Офицер Безопасности</Box>
 <Box>~</Box>
 
-## Succession Decision Process
-The new Acting Captain should follow the same responsibilities and uphold the same duties as a normal Captain would. These can be found in the Captain SOP.
-The succession list is shown from [bold]top to bottom[/bold] and should be followed as such.
+## Процесс принятия решений о преемственности
+Новый Исполняющий Обязанности Капитана должен следовать тем же обязанностям и выполнять те же функции, что и обычный Капитан. Это можно найти в СРП Капитана.
+Список преемственности показан [bold]сверху вниз[/bold] и должен соблюдаться в таком порядке.
 
-If it is deemed necessary, or by wish of the Head of Staff that is being chosen, the next person in the succession may be skipped.
+Если это считается необходимым или по желанию выбираемого Главы Персонала, следующий человек в списке преемственности может быть пропущен.
 
-[bullet/]For choices where the Head of Staff is deemed necessary to skip by others, it should be put to a vote by successors (barring Security Officers).
+[bullet/]В случаях, когда Глава Персонала считается необходимым для пропуска другими, это должно быть вынесено на голосование преемниками (за исключением Офицеров Безопасности).
 
-[bullet/]For choices where the Head of Staff chooses to not accept the title, they should have a valid reason for doing so and justify it if necessary.
+[bullet/]В случаях, когда Глава Персонала отказывается принять титул, он должен иметь вескую причину для этого и, при необходимости, обосновать свое решение.
 
-## Choosing Security Officers
-When choosing Security Officers for Command Succession, it should be put to a vote by all those included if there is no [color=#1b67a5]Nanotrasen Representative[/color].
+## Выбор Офицеров Безопасности
+При выборе Офицеров Безопасности для преемственности командования, если нет [color=#1b67a5]Представителя Nanotrasen[/color], это должно быть вынесено на голосование всеми участниками.
 
-When voting, it should be held as fast as possible. If a tie happens while voting, seniority should prevail.
+При голосовании оно должно проводиться как можно быстрее. В случае ничьей при голосовании приоритет должен отдаваться старшинству.
 
-## Procedure for Acquiring Access
-If at all possible, damage to station and Captain Quarter's should be minimized while acquiring accesses to ID during Command Succession procedures.
+## Процедура получения доступа
+По возможности, ущерб станции и каютам Капитана должен быть минимизирован при получении доступа к ID во время процедур преемственности командования.
 
-AI should follow these procedures and assist in this process. If AI is not available, engineers should be utilized in opening the doors and ensuring they are properly secured when finished.
+ИИ должен следовать этим процедурам и помогать в этом процессе. Если ИИ недоступен, следует использовать инженеров для открытия дверей и обеспечения их надлежащей защиты по завершении.
 
 </Document>

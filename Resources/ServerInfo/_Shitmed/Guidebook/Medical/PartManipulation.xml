@@ -1,51 +1,50 @@
 <Document>
-# Part Manipulation
-This is how you will turn felinids into humans, or vice versa if you're feeling particularly cruel.
+# Манипуляции с частями тела
 
-## Anatomy
-Normally a body has 10 main parts. Those being:
+Это то, как вы можете превратить фелинидов в людей, или наоборот, если вы чувствуете себя особенно жестоким.
 
-<Box>
-<GuideEntityEmbed Entity="HeadHuman" Caption="head"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="RightHandHuman" Caption="right hand"/>
-<GuideEntityEmbed Entity="RightArmHuman" Caption="right arm"/>
-<GuideEntityEmbed Entity="TorsoHuman" Caption="torso"/>
-<GuideEntityEmbed Entity="LeftArmHuman" Caption="left arm"/>
-<GuideEntityEmbed Entity="LeftHandHuman" Caption="left hand"/>
-</Box>
-<Box>
-<GuideEntityEmbed Entity="RightFootHuman" Caption="right foot"/>
-<GuideEntityEmbed Entity="RightLegHuman" Caption="right leg"/>
-<GuideEntityEmbed Entity="LeftLegHuman" Caption="left leg"/>
-<GuideEntityEmbed Entity="LeftFootHuman" Caption="left foot"/>
-</Box>
-
-Certain species might have more or less parts, such as tails, wings, or extra limbs, but this is the rough outline of what you'll see.
-To detach a limb, you'll need to apply the Remove Part surgery on it, which will then remove it without harming the patient.
-
-However if you want to reattach the limb, you'll need to apply the Attach Part surgery where you want it attached.
-Hands are attached to the arms, feet are attached to the legs. And everything else is attached to the torso.
-
-
-## Where do I get more parts?
-
-Normally when your patients come in needing new limbs, they'll need to get a new one, as their old ones will be either missing, or damaged beyond repair.
-For this you can use the Medical Biofabricator with some Biomass. Which can manufacture Biosynthetic limbs for all species.
+## Анатомия
+Обычно в теле человека 10 основных частей. Это:
 
 <Box>
-<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="medical biofabricator"/>
-<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="biofabricator board"/>
-<GuideEntityEmbed Entity="MaterialBiomass" Caption="biomass"/>
+<GuideEntityEmbed Entity="HeadHuman" Caption="голова"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="RightHandHuman" Caption="правая рука"/>
+<GuideEntityEmbed Entity="RightArmHuman" Caption="правая рука (от локтя до плеча)"/>
+<GuideEntityEmbed Entity="TorsoHuman" Caption="тело"/>
+<GuideEntityEmbed Entity="LeftArmHuman" Caption="левая рука (от локтя до плеча)"/>
+<GuideEntityEmbed Entity="LeftHandHuman" Caption="левая рука"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="RightFootHuman" Caption="правая нога"/>
+<GuideEntityEmbed Entity="RightLegHuman" Caption="правая нога"/>
+<GuideEntityEmbed Entity="LeftLegHuman" Caption="левая нога"/>
+<GuideEntityEmbed Entity="LeftFootHuman" Caption="левая нога"/>
 </Box>
 
-By default, every Chief Medical Officer has access to a Medical Biofabricator board in their locker.
+Некоторые виды могут иметь больше или меньше частей тела, например, хвосты, крылья или дополнительные конечности, но это общий перечень того, что вы увидите.
+Чтобы отсоединить конечность, вам нужно применить операцию по удалению части тела, которая удалит ее без вреда для пациента.
 
-## I reattached my patient's limb, but
-## it's not working?
+Однако если вы хотите снова прикрепить конечность, вам нужно применить операцию по прикреплению части тела, поместив ее в нужное место.
+Руки прикрепляются к рукам, ноги — к ногам, а все остальное прикрепляется к телу.
 
-Your patient has taken enough damage to the point that their limb's nerves were badly damaged, and they need to be healed properly before it can work again.
-For this you can try the Tend Wounds surgeries, or letting them use topicals on their wounds.
+## Где взять дополнительные части?
 
+Обычно, когда пациенты приходят с необходимостью получить новые конечности, им нужно будет получить новые, так как старые либо отсутствуют, либо повреждены до состояния, когда их невозможно восстановить.
+Для этого можно использовать медицинский биофабрикатор с биомассой. Он может изготовить биосинтетические конечности для всех видов.
+
+<Box>
+<GuideEntityEmbed Entity="MedicalBiofabricator" Caption="медицинский биофабрикатор"/>
+<GuideEntityEmbed Entity="MedicalBiofabMachineBoard" Caption="плата биофабрикатора"/>
+<GuideEntityEmbed Entity="MaterialBiomass" Caption="биомасса"/>
+</Box>
+
+Как правило, каждый главный врач имеет доступ к плате медицинского биофабрикатора в своем шкафчике.
+
+## Я снова прикрепил конечность своему пациенту, но
+## она не работает?
+
+Ваш пациент получил достаточно повреждений, чтобы нервы его конечности были сильно повреждены, и ей нужно пройти правильное лечение, прежде чем она снова начнет работать.
+Для этого вы можете попробовать провести операции по лечению ран или позволить пациенту использовать наружные средства на своих ранах.
 </Document>

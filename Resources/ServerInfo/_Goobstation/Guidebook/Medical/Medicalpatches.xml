@@ -1,32 +1,32 @@
 <Document>
-# Patches
+# Патчи
 
-Patches are a simple and effective way to slowly administer medication to a patient without risking an overdose.
-They can be made with the medfab and filled with the chemmaster. They can be directly applied to a patient and will fall off by themselves once empty.
+Патчи — это простой и эффективный способ медленного введения лекарства пациенту без риска передозировки.
+Их можно изготовить в медфабрикаторе и наполнить с помощью химмастера. Патчи можно непосредственно наносить на пациента, и они отвалятся сами по себе, как только опустеют.
 
 <GuideEntityEmbed Entity="MedicalPatchBasic" Rotation="0"/>
 
-There are 5 types of patches:
-- Basic
-- Rapid
-- Prefilled
-- Large
-- Makeshift
+Существует 5 типов патчей:
+- Обычный
+- Быстрый
+- Заполненный
+- Большой
+- Самодельный
 
-## Basic
-The basic patch holds 40 units of chems and transfers 1 unit at a time.
+## Обычный
+Обычный патч вмещает 40 единиц химикатов и передает по 1 единице за раз.
 
-## Rapid
-The rapid patch holds 40 units and transfers chemicals twice as fast.
+## Быстрый
+Быстрый патч вмещает 40 единиц и передает химикаты в два раза быстрее.
 
-## Prefilled
-Some medkits contain prefilled patches. These hold 30 units and transfers 0.25 units per second. They cannot be filled or emptied
+## Заполненный
+Некоторые аптечки содержат заполненные патчи. Эти патчи вмещают 30 единиц и передают по 0,25 единицы в секунду. Они не могут быть заполнены или опустошены.
 
-## Large
-The large patch holds 60 units and transfers them one unit at a time.
-However the large patch also transfers 15% of its chemicals upon use (10 units if full).
+## Большой
+Большой патч вмещает 60 единиц и передает их по 1 единице за раз.
+Однако большой патч также передает 15% своих химикатов при использовании (10 единиц, если полный).
 
-## Makeshift
-The makeshift patch can hold 15 units and transfer 1 unit every 2 seconds.
-However it can be crafted by hand and filled manually without a chemmaster
+## Самодельный
+Самодельный патч может вмещать 15 единиц и передает по 1 единице каждые 2 секунды.
+Однако его можно изготовить вручную и заполнить без использования химмастера.
 </Document>

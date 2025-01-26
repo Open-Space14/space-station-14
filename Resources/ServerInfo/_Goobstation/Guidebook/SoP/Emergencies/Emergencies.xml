@@ -1,16 +1,15 @@
 <Document>
-# Emergency Procedures
-This is the list of procedures that should (ideally) be followed in certain circumstances. This is a variety of emergencies and levels of hostiliy/threat to the station.
+  # Экстренные процедуры
+  Это список процедур, которые должны (в идеале) быть выполнены в определенных обстоятельствах. Это различные виды чрезвычайных ситуаций и уровней враждебности/угрозы для станции.
 
-Command and Security should utilize this section to differentiate the danger level for this station and choose appropriate reactions.
+  Командование и служба безопасности должны использовать этот раздел для определения уровня опасности для станции и выбора соответствующих мер.
 
-The following emergencies are underneath this folder:
-- [textlink="Confirmed Revolutions" link="ConfirmedRevs SOP"]
-- [textlink="Containment Failures (Tesla/Singularity)" link="ContainmentFail SOP"]
-- [textlink="Fire/Gas Spills" link="FireGasSpill SOP"]
-- [textlink="Meteor Storms" link="MeteorStorm SOP"]
-- [textlink="Supermatter Delamination" link="SMDelam SOP"]
-- [textlink="War Declaration" link="WarDeclaration SOP"]
-- [textlink="Zombie Outbreak" link="Zombie SOP"]
-
+  Следующие чрезвычайные ситуации находятся в этом разделе:
+  - [textlink="Подтвержденные революции" link="ConfirmedRevs SOP"]
+  - [textlink="Неудачи удержания (Тесла/Сингулярность)" link="ContainmentFail SOP"]
+  - [textlink="Пожары/Разливы газа" link="FireGasSpill SOP"]
+  - [textlink="Метеоритные штормы" link="MeteorStorm SOP"]
+  - [textlink="Деламинация суперматерии" link="SMDelam SOP"]
+  - [textlink="Объявление войны" link="WarDeclaration SOP"]
+  - [textlink="Вспышка зомби" link="Zombie SOP"]
 </Document>

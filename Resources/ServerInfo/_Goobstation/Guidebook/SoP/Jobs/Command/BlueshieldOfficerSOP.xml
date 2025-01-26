@@ -1,25 +1,24 @@
 <Document>
-# Blueshield Officer (BSO) SOP
-This is the list of procedures, responsibilities, and duties of the [color=#1b67a5][bold]Blueshield Officer[/bold][/color] of this station.
+  # Стандартные рабочие процедуры для офицера Синий Щит (ОСЩ)
+  Это список процедур, обязанностей и задач [color=#1b67a5][bold]офицера Синий Щит[/bold][/color] на станции.
 
-<ColorBox><Box HorizontalAlignment="Center" Margin="10">The [color=#1b67a5][bold]Blueshield Officer[/bold][/color] should never be Captain nor Head of Staff.</Box></ColorBox>
+  <ColorBox><Box HorizontalAlignment="Center" Margin="10">Офицер [color=#1b67a5][bold]Синий Щит[/bold][/color] не должен быть капитаном или главой персонала.</Box></ColorBox>
 
-The [bold][color=#fcd12a]most important[/color][/bold] rule of the Blueshield Officer is to protect and maintain the lives of Command personnel on the station.
-<Box>Command personnel are personnel hired by Nanotrasen (confirmed personnel in command) and any Central Command officials (including NTR).</Box>
+  Самое [bold][color=#fcd12a]важное[/color][/bold] правило офицера Синий Щит — защищать и обеспечивать безопасность персонала командования на станции.
+  <Box>Персонал командования — это персонал, нанятый Nanotrasen (проверенные сотрудники командования) и любые официальные представители Центрального командования (включая NTR).</Box>
 
-1. The Blueshield Officer must listen to and follow orders of the NTR unless it would directly conflict with ensuring the safety of Command personnel or Central Command orders.
+  1. Офицер Синий Щит должен слушать и выполнять приказы NTR, если только это не противоречит обеспечению безопасности персонала командования или приказам Центрального командования.
 
-2. The Blueshield Officer is to put the lives of Command over the lives of all others, including the Blueshield Officer. Their well-being is top priority.
-<Box>This includes first aid, revival, and ensuring they are safe and secure during emergencies.</Box>
+  2. Офицер Синий Щит должен ставить жизнь персонала командования выше жизни всех других, включая самого офицера Синий Щит. Их благополучие — приоритет номер один.
+  <Box>Это включает оказание первой помощи, воскрешение и обеспечение их безопасности во время чрезвычайных ситуаций.</Box>
 
-3. The Blueshield Officer is to protect the lives of Command, not follow their orders to a fault.
+  3. Офицер Синий Щит должен защищать жизнь персонала командования, а не безоговорочно следовать их приказам.
 
-4. The Blueshield Officer is not permitted to interfere with legal demotions or arrests. To do so would be a violation of their Central Command orders and Space Law.
-<Box>This primarily pertains to Command and Security work.</Box>
+  4. Офицер Синий Щит не имеет права вмешиваться в законные понижения в должности или аресты. Делать это будет нарушением приказов Центрального командования и Космического закона.
+  <Box>Это в первую очередь касается работы командования и службы безопасности.</Box>
 
-5. The Blueshield Officer should not use lethal force unless there is a clear and present danger to Command and/or their lives.
-<Box>The Blueshield Officer must also be unable to non-lethally detain the assailant.</Box>
+  5. Офицер Синий Щит не должен применять смертельную силу, если только не существует явной и немедленной угрозы для командования и/или их жизни.
+  <Box>Офицер Синий Щит также должен быть неспособен задержать нападающего без применения летальной силы.</Box>
 
-6. The Blueshield Officer is permitted to use lethal force in certain emergencies; refer to Alert Levels.
-
+  6. Офицер Синий Щит имеет право использовать летальную силу в определенных чрезвычайных ситуациях; см. Уровни тревоги.
 </Document>
