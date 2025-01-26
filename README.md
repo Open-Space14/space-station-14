@@ -47,5 +47,5 @@ python RUN_THIS.py
 
 Большинство ассетов лицензированы под [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), если не указано иное. Лицензия и авторские права на ассеты указаны в метаданных файла. [Пример](https://github.com/space-wizards/space-station-14/blob/master/Resources/Textures/Objects/Tools/crowbar.rsi/meta.json).
 
-> [NOTE!] 
+> [!NOTE]
 > Некоторые ассеты лицензированы под некоммерческой лицензией [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) или аналогичными некоммерческими лицензиями. Их потребуется удалить, если вы планируете использовать этот проект в коммерческих целях.
